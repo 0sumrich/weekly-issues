@@ -1,17 +1,24 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
-import { ButtonGroup, Button } from "@material-ui/core";
+import Button from "@material-ui/core/Button";
 
-const useStyles = makeStyles(theme => ({
-  button: {
-    cursor: "pointer"    
-  }
-}));
+const useStyles = makeStyles(theme => {
+  console.log(theme);
+  return {
+    wrapper: {
+      textAlign: "center"
+    },
+    button: {
+      cursor: "pointer",
+      margin: theme.spacing(0.5)
+    }
+  };
+});
 
 const BtnBar = ({ handleClick, activeLib, libraries }) => {
   const classes = useStyles();
   return (
-    <ButtonGroup>
+    <div>
       {libraries.map(lib => {
         return (
           <Button variant="outlined" className={classes.button}>
@@ -19,7 +26,7 @@ const BtnBar = ({ handleClick, activeLib, libraries }) => {
           </Button>
         );
       })}
-    </ButtonGroup>
+    </div>
   );
 };
 export default BtnBar;
