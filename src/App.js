@@ -1,10 +1,20 @@
-import React, { useState } from "react";
-import Button from "@material-ui/core/Button";
+import React, { Fragment, useState } from "react";
+import BtnBar from "./components/btnBar";
 import "./App.css";
 
 const App = ({ data }) => {
-  const [libs, setLibs] = useState([...new Set(data.map(o => o.library))]);
-  return <Button>Hi</Button>;
+  const libs = useState([...new Set(data.map(o => o.library))]);
+  const [activeLib, setActiveLib] = useState(libs[1]);
+  const handleLibClick = e => {
+    e.preventDefault();
+    console.log(e.target.innerHTML);
+  };
+
+  return (
+    <Fragment>
+      <BtnBar handleClick={handleLibClick} activeLib={activeLib} libraries={libs}/>
+    </Fragment>
+  );
 };
 
 export default App;
