@@ -1,5 +1,6 @@
 dependencies:
   '@material-ui/core': 4.6.1
+  clsx: 1.0.4
   d3: 5.14.1
   react: 16.12.0
   react-dom: 16.12.0
@@ -11656,6 +11657,7 @@ shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
 specifiers:
   '@material-ui/core': ^4.6.1
+  clsx: ^1.0.4
   d3: ^5.12.0
   react: ^16.12.0
   react-dom: ^16.12.0

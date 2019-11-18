@@ -1,4 +1,4 @@
-import React, { Fragment, useState } from "react";
+import React, { useState } from "react";
 import BtnBar from "./components/btnBar";
 import "./App.css";
 
@@ -11,9 +11,9 @@ const App = ({ data }) => {
   };
 
   return (
-    <Fragment>
+    <main>
       <BtnBar handleClick={handleLibClick} activeLib={activeLib} libraries={libs}/>
-    </Fragment>
+    </main>
   );
 };
 

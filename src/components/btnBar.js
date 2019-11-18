@@ -1,6 +1,7 @@
 import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import Button from "@material-ui/core/Button";
+import clsx from "clsx";
 
 const useStyles = makeStyles(theme => {
   console.log(theme);
@@ -11,6 +12,9 @@ const useStyles = makeStyles(theme => {
     button: {
       cursor: "pointer",
       margin: theme.spacing(0.5)
+    },
+    active: {
+      background: theme.palette.grey(100)
     }
   };
 });
@@ -18,10 +22,10 @@ const useStyles = makeStyles(theme => {
 const BtnBar = ({ handleClick, activeLib, libraries }) => {
   const classes = useStyles();
   return (
-    <div>
+    <div className={classes.wrapper}>
       {libraries.map(lib => {
         return (
-          <Button variant="outlined" className={classes.button}>
+          <Button variant="outlined" className={{}clsx(classes.button)}>
             {lib}
           </Button>
         );
