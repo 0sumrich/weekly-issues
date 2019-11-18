@@ -4,7 +4,7 @@ import "./App.css";
 
 const App = ({ data }) => {
   const libs = useState([...new Set(data.map(o => o.library))]);
-  const [activeLib, setActiveLib] = useState(libs[1]);
+  const [activeLib, setActiveLib] = useState(libs[0]);
   const handleLibClick = e => {
     e.preventDefault();
     console.log(e.target.innerHTML);
