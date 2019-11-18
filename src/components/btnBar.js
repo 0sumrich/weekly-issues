@@ -4,7 +4,6 @@ import Button from "@material-ui/core/Button";
 
 const useStyles = makeStyles(theme => ({
   wrapper: {
-    display: 'inline-block',
     textAlign: 'center'
   },
   button: {
@@ -13,8 +12,7 @@ const useStyles = makeStyles(theme => ({
   }
 }));
 
-const BtnBar = ({ handleClick, activeLib, libraries }) => {
-  debugger;
+const BtnBar = ({ handleClick, activeLib, libraries }) => {  
   const classes = useStyles();
   return (
     <div className={classes.wrapper}>
