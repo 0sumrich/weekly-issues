@@ -4,7 +4,7 @@ import Button from "@material-ui/core/Button";
 import clsx from "clsx";
 
 const useStyles = makeStyles(theme => {
-  console.log(theme);
+  console.log(theme.palette.grey[500]);
   return {
     wrapper: {
       textAlign: "center"
@@ -14,7 +14,7 @@ const useStyles = makeStyles(theme => {
       margin: theme.spacing(0.5)
     },
     active: {
-      background: theme.palette.grey(100)
+      color: "red"
     }
   };
 });
@@ -24,8 +24,13 @@ const BtnBar = ({ handleClick, activeLib, libraries }) => {
   return (
     <div className={classes.wrapper}>
       {libraries.map(lib => {
+        console.log(clsx(classes.button, { active: lib === activeLib }));
         return (
-          <Button variant="outlined" className={{}clsx(classes.button)}>
+          <Button
+            key={lib}
+            variant="outlined"
+            className={clsx({ active: lib === activeLib }, classes.button)}
+          >
             {lib}
           </Button>
         );
