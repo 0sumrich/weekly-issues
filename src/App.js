@@ -3,7 +3,7 @@ import BtnBar from "./components/btnBar";
 import "./App.css";
 
 const App = ({ data }) => {
-  const libs = useState([...new Set(data.map(o => o.library))]);
+  const libs = [...new Set(data.map(o => o.library))];
   const [activeLib, setActiveLib] = useState(libs[0]);
   const handleLibClick = e => {
     e.preventDefault();
