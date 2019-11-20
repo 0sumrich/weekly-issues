@@ -179,6 +179,13 @@ function weekly(data) {
     .text("Opening Types");
 
   openingTypes.forEach((ot, i) => drawLeg(ot, i));
+  
+  //axes labels
+  chart
+  .append('text')
+  .attr('x', width/2)
+  .attr('y', 0 + margin.top/2)
+  .text('')
 }
 
 export default weekly;
