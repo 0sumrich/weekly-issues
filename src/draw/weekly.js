@@ -2,10 +2,6 @@ import * as d3 from "d3";
 import moment from "moment";
 
 function getDateTime(dayNum, hour = 0) {
-  const splitT = str => {
-    const arr = str.split(":");
-    return [arr[0], arr[1]];
-  };
   const monday = d3.timeMonday(new Date(Date.now()));
   return moment(monday)
     .add(dayNum, "d")
