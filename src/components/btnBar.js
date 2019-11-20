@@ -6,7 +6,8 @@ import clsx from "clsx";
 const useStyles = makeStyles(theme => {
   return {
     wrapper: {
-      textAlign: "center"
+      textAlign: "center",
+      maxWidth: 950
     },
     button: {
       cursor: "pointer",
