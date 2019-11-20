@@ -198,6 +198,16 @@ function weekly(data) {
       .attr("x", width / 2)
       .attr("y", 0 + margin.top / 2)
       .attr("dy", "1.6em");
+
+    chart
+      .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 0 - margin.left + 5)
+      .attr("x", 0 - height / 2)
+      .attr("dy", "1em")
+      .attr("font-size", "small")
+      .style("text-anchor", "middle")
+      .text("Average loan transactions");
   }
 }
 
