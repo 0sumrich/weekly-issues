@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/weekly-issues.git/static/css/main.9eb166b7.chunk.css",
-    "main.js": "/weekly-issues.git/static/js/main.4f89f305.chunk.js",
-    "main.js.map": "/weekly-issues.git/static/js/main.4f89f305.chunk.js.map",
+    "main.js": "/weekly-issues.git/static/js/main.c2b4dfa4.chunk.js",
+    "main.js.map": "/weekly-issues.git/static/js/main.c2b4dfa4.chunk.js.map",
     "runtime-main.js": "/weekly-issues.git/static/js/runtime-main.515b3d43.js",
     "runtime-main.js.map": "/weekly-issues.git/static/js/runtime-main.515b3d43.js.map",
     "static/js/2.f55fae08.chunk.js": "/weekly-issues.git/static/js/2.f55fae08.chunk.js",
     "static/js/2.f55fae08.chunk.js.map": "/weekly-issues.git/static/js/2.f55fae08.chunk.js.map",
     "index.html": "/weekly-issues.git/index.html",
-    "precache-manifest.924fa60abee8a9d15a9acb0d623de2c6.js": "/weekly-issues.git/precache-manifest.924fa60abee8a9d15a9acb0d623de2c6.js",
+    "precache-manifest.a35e5564bbe3a8a6f37ff14e88f3e249.js": "/weekly-issues.git/precache-manifest.a35e5564bbe3a8a6f37ff14e88f3e249.js",
     "service-worker.js": "/weekly-issues.git/service-worker.js",
     "static/css/main.9eb166b7.chunk.css.map": "/weekly-issues.git/static/css/main.9eb166b7.chunk.css.map",
     "static/media/data.csv": "/weekly-issues.git/static/media/data.9de063ff.csv"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.515b3d43.js",
     "static/js/2.f55fae08.chunk.js",
     "static/css/main.9eb166b7.chunk.css",
-    "static/js/main.4f89f305.chunk.js"
+    "static/js/main.c2b4dfa4.chunk.js"
   ]
 }

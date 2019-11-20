@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ce3bd2d4c4181e35c5ece8cc3494f67",
+    "revision": "72cc2b2ca0b926b17eb9c6597745ff6b",
     "url": "/weekly-issues.git/index.html"
   },
   {
-    "revision": "a668431a6a27aeabb089",
+    "revision": "68386fecfb8601ace205",
     "url": "/weekly-issues.git/static/css/main.9eb166b7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weekly-issues.git/static/js/2.f55fae08.chunk.js"
   },
   {
-    "revision": "a668431a6a27aeabb089",
-    "url": "/weekly-issues.git/static/js/main.4f89f305.chunk.js"
+    "revision": "68386fecfb8601ace205",
+    "url": "/weekly-issues.git/static/js/main.c2b4dfa4.chunk.js"
   },
   {
     "revision": "fae28a3376b29e7f1f59",
