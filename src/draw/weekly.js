@@ -66,18 +66,18 @@ function weekly(data) {
 	const line = d3
 		.line()
 		.x(d => {
+			const res = getDateTime(d.day_num, d.hour);
       debugger;
-			const res = getDateTime(d.day, d.time);
 			return x(res);
 		})
-		.y(d => y(d.avg));
+		.y(d => y(d.average_transactions));
 
 	line(d);
 
 	const area = d3
 		.area()
-		.x(d => x(getDateTime(d.day, d.time)))
-		.y1(d => y(d.avg))
+		.x(d => x(getDateTime(d.day_num, d.hour)))
+		.y1(d => y(d.average_transactions))
 		.y0(height);
 
 	const openingTypeFill = ot => {
