@@ -34,7 +34,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://0sumrich.github.io/weekly-issues.git",
+  "homepage": "https://0sumrich.github.io/weekly-issues",
   "devDependencies": {
     "gh-pages": "^2.1.1"
   }
