@@ -35,16 +35,18 @@ function splitter(d) {
 }
 
 function fixGaps(d) {
-  const libs = [...new Set(d.map(o => o.library))];
   const keys = Object.keys(d[0]);
+  const createRow = (...keys) => ({...keys})
   let res = [];
   for (let i = 0; i < 7; i++) {
     const day_num = i;
     for (let j = 0; j < 24; j++) {
       const hour = j;
-      const exists = d.filter(o => o.day_num === day_num && o.hour === day_num);
+      const exists = d.filter(o => o.day_num === day_num && o.hour === hour);
       if(exists.length>0){
-        debugger;
+        res.push(exists[0])
+      } else {
+        
       }
     }
   }
