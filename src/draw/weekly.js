@@ -49,7 +49,8 @@ function weekly(data) {
 		.attr("height", height + margin.top + margin.bottom)
 		.append("g")
 		.attr("transform", `translate(${margin.left}, ${margin.top})`);
-
+  
+  debugger;
 	const timeArr = d3.timeHours(getDateTime(0), getDateTime(7), 1);
 
 	const x = d3
