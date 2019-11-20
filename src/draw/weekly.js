@@ -34,25 +34,6 @@ function splitter(d) {
   return res; //array of arrays
 }
 
-function fixGaps(d) {
-  const keys = Object.keys(d[0]);
-  const createRow = (...keys) => ({...keys})
-  let res = [];
-  for (let i = 0; i < 7; i++) {
-    const day_num = i;
-    for (let j = 0; j < 24; j++) {
-      const hour = j;
-      const exists = d.filter(o => o.day_num === day_num && o.hour === hour);
-      if(exists.length>0){
-        res.push(exists[0])
-      } else {
-        
-      }
-    }
-  }
-  debugger;
-}
-
 function weekly(data) {
   d3.select("#weekly")
     .selectAll("*")
@@ -60,7 +41,7 @@ function weekly(data) {
   const margin = { top: 50, right: 50, bottom: 50, left: 50 };
   const width = 950 - margin.left - margin.right;
   const height = 600 - margin.top - margin.bottom;
-  const d = fixGaps(data);
+  const d = data;
   const chart = d3
     .select("#weekly")
     .attr("width", width + margin.left + margin.right)
