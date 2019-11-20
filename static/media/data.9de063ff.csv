@@ -1,0 +1,2185 @@
+library,day_num,day_name,hour,opening_type,average_transactions
+Burnt Oak,0,Monday,0,closed,0.0
+Burnt Oak,0,Monday,1,closed,0.0
+Burnt Oak,0,Monday,2,closed,0.0
+Burnt Oak,0,Monday,3,closed,0.0
+Burnt Oak,0,Monday,4,closed,0.0
+Burnt Oak,0,Monday,5,closed,0.0
+Burnt Oak,0,Monday,6,closed,0.0
+Burnt Oak,0,Monday,7,closed,0.0
+Burnt Oak,0,Monday,8,closed,0.0
+Burnt Oak,0,Monday,9,SSO,14.06896551724138
+Burnt Oak,0,Monday,10,SSO,10.0
+Burnt Oak,0,Monday,11,SSO,18.607142857142858
+Burnt Oak,0,Monday,12,SSO,11.392857142857142
+Burnt Oak,0,Monday,13,SSO,12.444444444444445
+Burnt Oak,0,Monday,14,staffed,21.258064516129032
+Burnt Oak,0,Monday,15,staffed,26.1875
+Burnt Oak,0,Monday,16,staffed,28.84375
+Burnt Oak,0,Monday,17,staffed,31.37931034482759
+Burnt Oak,0,Monday,18,staffed,18.206896551724142
+Burnt Oak,0,Monday,19,staffed,11.0
+Burnt Oak,0,Monday,20,closed,0.0
+Burnt Oak,0,Monday,21,closed,0.0
+Burnt Oak,0,Monday,22,closed,0.0
+Burnt Oak,0,Monday,23,closed,0.0
+Burnt Oak,1,Tuesday,0,closed,0.0
+Burnt Oak,1,Tuesday,1,closed,0.0
+Burnt Oak,1,Tuesday,2,closed,0.0
+Burnt Oak,1,Tuesday,3,closed,0.0
+Burnt Oak,1,Tuesday,4,closed,0.0
+Burnt Oak,1,Tuesday,5,closed,0.0
+Burnt Oak,1,Tuesday,6,closed,0.0
+Burnt Oak,1,Tuesday,7,closed,0.0
+Burnt Oak,1,Tuesday,8,closed,0.0
+Burnt Oak,1,Tuesday,9,SSO,14.423076923076925
+Burnt Oak,1,Tuesday,10,SSO,8.888888888888891
+Burnt Oak,1,Tuesday,11,SSO,11.344827586206893
+Burnt Oak,1,Tuesday,12,SSO,9.111111111111109
+Burnt Oak,1,Tuesday,13,SSO,10.774193548387096
+Burnt Oak,1,Tuesday,14,SSO,12.096774193548386
+Burnt Oak,1,Tuesday,15,SSO,14.625
+Burnt Oak,1,Tuesday,16,SSO,20.28125
+Burnt Oak,1,Tuesday,17,closed,0.0
+Burnt Oak,1,Tuesday,18,closed,0.0
+Burnt Oak,1,Tuesday,19,closed,0.0
+Burnt Oak,1,Tuesday,20,closed,0.0
+Burnt Oak,1,Tuesday,21,closed,0.0
+Burnt Oak,1,Tuesday,22,closed,0.0
+Burnt Oak,1,Tuesday,23,closed,0.0
+Burnt Oak,2,Wednesday,0,closed,0.0
+Burnt Oak,2,Wednesday,1,closed,0.0
+Burnt Oak,2,Wednesday,2,closed,0.0
+Burnt Oak,2,Wednesday,3,closed,0.0
+Burnt Oak,2,Wednesday,4,closed,0.0
+Burnt Oak,2,Wednesday,5,closed,0.0
+Burnt Oak,2,Wednesday,6,closed,0.0
+Burnt Oak,2,Wednesday,7,closed,0.0
+Burnt Oak,2,Wednesday,8,closed,0.0
+Burnt Oak,2,Wednesday,9,staffed,15.181818181818182
+Burnt Oak,2,Wednesday,10,staffed,15.575757575757574
+Burnt Oak,2,Wednesday,11,staffed,16.88235294117647
+Burnt Oak,2,Wednesday,12,SSO,19.392857142857142
+Burnt Oak,2,Wednesday,13,SSO,10.965517241379311
+Burnt Oak,2,Wednesday,14,SSO,12.233333333333333
+Burnt Oak,2,Wednesday,15,SSO,15.06896551724138
+Burnt Oak,2,Wednesday,16,SSO,17.06451612903226
+Burnt Oak,2,Wednesday,17,closed,0.0
+Burnt Oak,2,Wednesday,18,closed,0.0
+Burnt Oak,2,Wednesday,19,closed,0.0
+Burnt Oak,2,Wednesday,20,closed,0.0
+Burnt Oak,2,Wednesday,21,closed,0.0
+Burnt Oak,2,Wednesday,22,closed,0.0
+Burnt Oak,2,Wednesday,23,closed,0.0
+Burnt Oak,3,Thursday,0,closed,0.0
+Burnt Oak,3,Thursday,1,closed,0.0
+Burnt Oak,3,Thursday,2,closed,0.0
+Burnt Oak,3,Thursday,3,closed,0.0
+Burnt Oak,3,Thursday,4,closed,0.0
+Burnt Oak,3,Thursday,5,closed,0.0
+Burnt Oak,3,Thursday,6,closed,0.0
+Burnt Oak,3,Thursday,7,closed,0.0
+Burnt Oak,3,Thursday,8,closed,0.0
+Burnt Oak,3,Thursday,9,SSO,10.961538461538463
+Burnt Oak,3,Thursday,10,SSO,9.2
+Burnt Oak,3,Thursday,11,SSO,10.75
+Burnt Oak,3,Thursday,12,SSO,9.833333333333334
+Burnt Oak,3,Thursday,13,SSO,8.692307692307693
+Burnt Oak,3,Thursday,14,SSO,11.258064516129034
+Burnt Oak,3,Thursday,15,SSO,18.21875
+Burnt Oak,3,Thursday,16,SSO,12.970588235294118
+Burnt Oak,3,Thursday,17,closed,0.0
+Burnt Oak,3,Thursday,18,closed,0.0
+Burnt Oak,3,Thursday,19,closed,0.0
+Burnt Oak,3,Thursday,20,closed,0.0
+Burnt Oak,3,Thursday,21,closed,0.0
+Burnt Oak,3,Thursday,22,closed,0.0
+Burnt Oak,3,Thursday,23,closed,0.0
+Burnt Oak,4,Friday,0,closed,0.0
+Burnt Oak,4,Friday,1,closed,0.0
+Burnt Oak,4,Friday,2,closed,0.0
+Burnt Oak,4,Friday,3,closed,0.0
+Burnt Oak,4,Friday,4,closed,0.0
+Burnt Oak,4,Friday,5,closed,0.0
+Burnt Oak,4,Friday,6,closed,0.0
+Burnt Oak,4,Friday,7,closed,0.0
+Burnt Oak,4,Friday,8,closed,0.0
+Burnt Oak,4,Friday,9,SSO,14.066666666666665
+Burnt Oak,4,Friday,10,SSO,8.551724137931034
+Burnt Oak,4,Friday,11,SSO,12.107142857142858
+Burnt Oak,4,Friday,12,SSO,9.857142857142858
+Burnt Oak,4,Friday,13,SSO,10.785714285714288
+Burnt Oak,4,Friday,14,staffed,22.85294117647059
+Burnt Oak,4,Friday,15,staffed,35.176470588235304
+Burnt Oak,4,Friday,16,staffed,34.029411764705884
+Burnt Oak,4,Friday,17,closed,0.0
+Burnt Oak,4,Friday,18,closed,0.0
+Burnt Oak,4,Friday,19,closed,0.0
+Burnt Oak,4,Friday,20,closed,0.0
+Burnt Oak,4,Friday,21,closed,0.0
+Burnt Oak,4,Friday,22,closed,0.0
+Burnt Oak,4,Friday,23,closed,0.0
+Burnt Oak,5,Saturday,0,closed,0.0
+Burnt Oak,5,Saturday,1,closed,0.0
+Burnt Oak,5,Saturday,2,closed,0.0
+Burnt Oak,5,Saturday,3,closed,0.0
+Burnt Oak,5,Saturday,4,closed,0.0
+Burnt Oak,5,Saturday,5,closed,0.0
+Burnt Oak,5,Saturday,6,closed,0.0
+Burnt Oak,5,Saturday,7,closed,0.0
+Burnt Oak,5,Saturday,8,closed,0.0
+Burnt Oak,5,Saturday,9,closed,0.0
+Burnt Oak,5,Saturday,10,closed,0.0
+Burnt Oak,5,Saturday,11,closed,0.0
+Burnt Oak,5,Saturday,12,closed,0.0
+Burnt Oak,5,Saturday,13,closed,0.0
+Burnt Oak,5,Saturday,14,staffed,29.058823529411764
+Burnt Oak,5,Saturday,15,staffed,34.6
+Burnt Oak,5,Saturday,16,staffed,24.57142857142857
+Burnt Oak,5,Saturday,17,closed,0.0
+Burnt Oak,5,Saturday,18,closed,0.0
+Burnt Oak,5,Saturday,19,closed,0.0
+Burnt Oak,5,Saturday,20,closed,0.0
+Burnt Oak,5,Saturday,21,closed,0.0
+Burnt Oak,5,Saturday,22,closed,0.0
+Burnt Oak,5,Saturday,23,closed,0.0
+Burnt Oak,6,Sunday,0,closed,0.0
+Burnt Oak,6,Sunday,1,closed,0.0
+Burnt Oak,6,Sunday,2,closed,0.0
+Burnt Oak,6,Sunday,3,closed,0.0
+Burnt Oak,6,Sunday,4,closed,0.0
+Burnt Oak,6,Sunday,5,closed,0.0
+Burnt Oak,6,Sunday,6,closed,0.0
+Burnt Oak,6,Sunday,7,closed,0.0
+Burnt Oak,6,Sunday,8,closed,0.0
+Burnt Oak,6,Sunday,9,closed,0.0
+Burnt Oak,6,Sunday,10,closed,0.0
+Burnt Oak,6,Sunday,11,closed,0.0
+Burnt Oak,6,Sunday,12,closed,0.0
+Burnt Oak,6,Sunday,13,closed,0.0
+Burnt Oak,6,Sunday,14,closed,0.0
+Burnt Oak,6,Sunday,15,closed,0.0
+Burnt Oak,6,Sunday,16,closed,0.0
+Burnt Oak,6,Sunday,17,closed,0.0
+Burnt Oak,6,Sunday,18,closed,0.0
+Burnt Oak,6,Sunday,19,closed,0.0
+Burnt Oak,6,Sunday,20,closed,0.0
+Burnt Oak,6,Sunday,21,closed,0.0
+Burnt Oak,6,Sunday,22,closed,0.0
+Burnt Oak,6,Sunday,23,closed,0.0
+Childs Hill,0,Monday,0,closed,0.0
+Childs Hill,0,Monday,1,closed,0.0
+Childs Hill,0,Monday,2,closed,0.0
+Childs Hill,0,Monday,3,closed,0.0
+Childs Hill,0,Monday,4,closed,0.0
+Childs Hill,0,Monday,5,closed,0.0
+Childs Hill,0,Monday,6,closed,0.0
+Childs Hill,0,Monday,7,closed,0.0
+Childs Hill,0,Monday,8,closed,0.0
+Childs Hill,0,Monday,9,closed,0.0
+Childs Hill,0,Monday,10,staffed,10.933333333333335
+Childs Hill,0,Monday,11,staffed,16.93548387096774
+Childs Hill,0,Monday,12,staffed,23.774193548387093
+Childs Hill,0,Monday,13,closed,0.0
+Childs Hill,0,Monday,14,closed,0.0
+Childs Hill,0,Monday,15,closed,0.0
+Childs Hill,0,Monday,16,closed,0.0
+Childs Hill,0,Monday,17,closed,0.0
+Childs Hill,0,Monday,18,closed,0.0
+Childs Hill,0,Monday,19,closed,0.0
+Childs Hill,0,Monday,20,closed,0.0
+Childs Hill,0,Monday,21,closed,0.0
+Childs Hill,0,Monday,22,closed,0.0
+Childs Hill,0,Monday,23,closed,0.0
+Childs Hill,1,Tuesday,0,closed,0.0
+Childs Hill,1,Tuesday,1,closed,0.0
+Childs Hill,1,Tuesday,2,closed,0.0
+Childs Hill,1,Tuesday,3,closed,0.0
+Childs Hill,1,Tuesday,4,closed,0.0
+Childs Hill,1,Tuesday,5,closed,0.0
+Childs Hill,1,Tuesday,6,closed,0.0
+Childs Hill,1,Tuesday,7,closed,0.0
+Childs Hill,1,Tuesday,8,closed,0.0
+Childs Hill,1,Tuesday,9,closed,0.0
+Childs Hill,1,Tuesday,10,closed,0.0
+Childs Hill,1,Tuesday,11,closed,0.0
+Childs Hill,1,Tuesday,12,closed,0.0
+Childs Hill,1,Tuesday,13,closed,0.0
+Childs Hill,1,Tuesday,14,staffed,14.882352941176471
+Childs Hill,1,Tuesday,15,staffed,24.85294117647059
+Childs Hill,1,Tuesday,16,staffed,22.911764705882355
+Childs Hill,1,Tuesday,17,closed,0.0
+Childs Hill,1,Tuesday,18,closed,0.0
+Childs Hill,1,Tuesday,19,closed,0.0
+Childs Hill,1,Tuesday,20,closed,0.0
+Childs Hill,1,Tuesday,21,closed,0.0
+Childs Hill,1,Tuesday,22,closed,0.0
+Childs Hill,1,Tuesday,23,closed,0.0
+Childs Hill,2,Wednesday,0,closed,0.0
+Childs Hill,2,Wednesday,1,closed,0.0
+Childs Hill,2,Wednesday,2,closed,0.0
+Childs Hill,2,Wednesday,3,closed,0.0
+Childs Hill,2,Wednesday,4,closed,0.0
+Childs Hill,2,Wednesday,5,closed,0.0
+Childs Hill,2,Wednesday,6,closed,0.0
+Childs Hill,2,Wednesday,7,closed,0.0
+Childs Hill,2,Wednesday,8,closed,0.0
+Childs Hill,2,Wednesday,9,closed,0.0
+Childs Hill,2,Wednesday,10,staffed,15.21875
+Childs Hill,2,Wednesday,11,staffed,17.0
+Childs Hill,2,Wednesday,12,staffed,13.67741935483871
+Childs Hill,2,Wednesday,13,closed,0.0
+Childs Hill,2,Wednesday,14,closed,0.0
+Childs Hill,2,Wednesday,15,closed,0.0
+Childs Hill,2,Wednesday,16,closed,0.0
+Childs Hill,2,Wednesday,17,closed,0.0
+Childs Hill,2,Wednesday,18,closed,0.0
+Childs Hill,2,Wednesday,19,closed,0.0
+Childs Hill,2,Wednesday,20,closed,0.0
+Childs Hill,2,Wednesday,21,closed,0.0
+Childs Hill,2,Wednesday,22,closed,0.0
+Childs Hill,2,Wednesday,23,closed,0.0
+Childs Hill,3,Thursday,0,closed,0.0
+Childs Hill,3,Thursday,1,closed,0.0
+Childs Hill,3,Thursday,2,closed,0.0
+Childs Hill,3,Thursday,3,closed,0.0
+Childs Hill,3,Thursday,4,closed,0.0
+Childs Hill,3,Thursday,5,closed,0.0
+Childs Hill,3,Thursday,6,closed,0.0
+Childs Hill,3,Thursday,7,closed,0.0
+Childs Hill,3,Thursday,8,closed,0.0
+Childs Hill,3,Thursday,9,closed,0.0
+Childs Hill,3,Thursday,10,closed,0.0
+Childs Hill,3,Thursday,11,closed,0.0
+Childs Hill,3,Thursday,12,closed,0.0
+Childs Hill,3,Thursday,13,closed,0.0
+Childs Hill,3,Thursday,14,staffed,13.483870967741936
+Childs Hill,3,Thursday,15,staffed,20.647058823529417
+Childs Hill,3,Thursday,16,staffed,20.264705882352946
+Childs Hill,3,Thursday,17,staffed,20.484848484848484
+Childs Hill,3,Thursday,18,staffed,13.484848484848484
+Childs Hill,3,Thursday,19,staffed,17.93548387096774
+Childs Hill,3,Thursday,20,closed,0.0
+Childs Hill,3,Thursday,21,closed,0.0
+Childs Hill,3,Thursday,22,closed,0.0
+Childs Hill,3,Thursday,23,closed,0.0
+Childs Hill,4,Friday,0,closed,0.0
+Childs Hill,4,Friday,1,closed,0.0
+Childs Hill,4,Friday,2,closed,0.0
+Childs Hill,4,Friday,3,closed,0.0
+Childs Hill,4,Friday,4,closed,0.0
+Childs Hill,4,Friday,5,closed,0.0
+Childs Hill,4,Friday,6,closed,0.0
+Childs Hill,4,Friday,7,closed,0.0
+Childs Hill,4,Friday,8,closed,0.0
+Childs Hill,4,Friday,9,closed,0.0
+Childs Hill,4,Friday,10,closed,0.0
+Childs Hill,4,Friday,11,closed,0.0
+Childs Hill,4,Friday,12,closed,0.0
+Childs Hill,4,Friday,13,closed,0.0
+Childs Hill,4,Friday,14,closed,0.0
+Childs Hill,4,Friday,15,closed,0.0
+Childs Hill,4,Friday,16,closed,0.0
+Childs Hill,4,Friday,17,closed,0.0
+Childs Hill,4,Friday,18,closed,0.0
+Childs Hill,4,Friday,19,closed,0.0
+Childs Hill,4,Friday,20,closed,0.0
+Childs Hill,4,Friday,21,closed,0.0
+Childs Hill,4,Friday,22,closed,0.0
+Childs Hill,4,Friday,23,closed,0.0
+Childs Hill,5,Saturday,0,closed,0.0
+Childs Hill,5,Saturday,1,closed,0.0
+Childs Hill,5,Saturday,2,closed,0.0
+Childs Hill,5,Saturday,3,closed,0.0
+Childs Hill,5,Saturday,4,closed,0.0
+Childs Hill,5,Saturday,5,closed,0.0
+Childs Hill,5,Saturday,6,closed,0.0
+Childs Hill,5,Saturday,7,closed,0.0
+Childs Hill,5,Saturday,8,closed,0.0
+Childs Hill,5,Saturday,9,closed,0.0
+Childs Hill,5,Saturday,10,closed,0.0
+Childs Hill,5,Saturday,11,closed,0.0
+Childs Hill,5,Saturday,12,closed,0.0
+Childs Hill,5,Saturday,13,closed,0.0
+Childs Hill,5,Saturday,14,closed,0.0
+Childs Hill,5,Saturday,15,closed,0.0
+Childs Hill,5,Saturday,16,closed,0.0
+Childs Hill,5,Saturday,17,closed,0.0
+Childs Hill,5,Saturday,18,closed,0.0
+Childs Hill,5,Saturday,19,closed,0.0
+Childs Hill,5,Saturday,20,closed,0.0
+Childs Hill,5,Saturday,21,closed,0.0
+Childs Hill,5,Saturday,22,closed,0.0
+Childs Hill,5,Saturday,23,closed,0.0
+Childs Hill,6,Sunday,0,closed,0.0
+Childs Hill,6,Sunday,1,closed,0.0
+Childs Hill,6,Sunday,2,closed,0.0
+Childs Hill,6,Sunday,3,closed,0.0
+Childs Hill,6,Sunday,4,closed,0.0
+Childs Hill,6,Sunday,5,closed,0.0
+Childs Hill,6,Sunday,6,closed,0.0
+Childs Hill,6,Sunday,7,closed,0.0
+Childs Hill,6,Sunday,8,closed,0.0
+Childs Hill,6,Sunday,9,closed,0.0
+Childs Hill,6,Sunday,10,closed,0.0
+Childs Hill,6,Sunday,11,closed,0.0
+Childs Hill,6,Sunday,12,closed,0.0
+Childs Hill,6,Sunday,13,closed,0.0
+Childs Hill,6,Sunday,14,staffed,38.882352941176464
+Childs Hill,6,Sunday,15,staffed,35.117647058823536
+Childs Hill,6,Sunday,16,staffed,39.558823529411775
+Childs Hill,6,Sunday,17,closed,0.0
+Childs Hill,6,Sunday,18,closed,0.0
+Childs Hill,6,Sunday,19,closed,0.0
+Childs Hill,6,Sunday,20,closed,0.0
+Childs Hill,6,Sunday,21,closed,0.0
+Childs Hill,6,Sunday,22,closed,0.0
+Childs Hill,6,Sunday,23,closed,0.0
+Chipping Barnet,0,Monday,0,closed,0.0
+Chipping Barnet,0,Monday,1,closed,0.0
+Chipping Barnet,0,Monday,2,closed,0.0
+Chipping Barnet,0,Monday,3,closed,0.0
+Chipping Barnet,0,Monday,4,closed,0.0
+Chipping Barnet,0,Monday,5,closed,0.0
+Chipping Barnet,0,Monday,6,closed,0.0
+Chipping Barnet,0,Monday,7,SSO,7.428571428571429
+Chipping Barnet,0,Monday,8,SSO,8.903225806451612
+Chipping Barnet,0,Monday,9,SSO,56.84848484848485
+Chipping Barnet,0,Monday,10,SSO,65.78787878787878
+Chipping Barnet,0,Monday,11,SSO,68.6969696969697
+Chipping Barnet,0,Monday,12,SSO,59.78125
+Chipping Barnet,0,Monday,13,SSO,46.06060606060606
+Chipping Barnet,0,Monday,14,SSO,53.25
+Chipping Barnet,0,Monday,15,SSO,64.09375
+Chipping Barnet,0,Monday,16,SSO,58.264705882352935
+Chipping Barnet,0,Monday,17,SSO,29.0
+Chipping Barnet,0,Monday,18,SSO,17.515151515151516
+Chipping Barnet,0,Monday,19,SSO,17.29032258064516
+Chipping Barnet,0,Monday,20,SSO,13.4
+Chipping Barnet,0,Monday,21,SSO,16.26923076923077
+Chipping Barnet,0,Monday,22,closed,0.0
+Chipping Barnet,0,Monday,23,closed,0.0
+Chipping Barnet,1,Tuesday,0,closed,0.0
+Chipping Barnet,1,Tuesday,1,closed,0.0
+Chipping Barnet,1,Tuesday,2,closed,0.0
+Chipping Barnet,1,Tuesday,3,closed,0.0
+Chipping Barnet,1,Tuesday,4,closed,0.0
+Chipping Barnet,1,Tuesday,5,closed,0.0
+Chipping Barnet,1,Tuesday,6,closed,0.0
+Chipping Barnet,1,Tuesday,7,SSO,8.16
+Chipping Barnet,1,Tuesday,8,SSO,14.5625
+Chipping Barnet,1,Tuesday,9,staffed,59.06060606060606
+Chipping Barnet,1,Tuesday,10,staffed,94.38235294117645
+Chipping Barnet,1,Tuesday,11,staffed,106.5
+Chipping Barnet,1,Tuesday,12,SSO,66.82352941176471
+Chipping Barnet,1,Tuesday,13,SSO,59.17647058823529
+Chipping Barnet,1,Tuesday,14,SSO,58.911764705882355
+Chipping Barnet,1,Tuesday,15,SSO,49.970588235294116
+Chipping Barnet,1,Tuesday,16,SSO,48.764705882352935
+Chipping Barnet,1,Tuesday,17,SSO,37.76470588235294
+Chipping Barnet,1,Tuesday,18,SSO,28.60606060606061
+Chipping Barnet,1,Tuesday,19,SSO,23.181818181818183
+Chipping Barnet,1,Tuesday,20,SSO,16.032258064516128
+Chipping Barnet,1,Tuesday,21,SSO,16.1
+Chipping Barnet,1,Tuesday,22,closed,0.0
+Chipping Barnet,1,Tuesday,23,closed,0.0
+Chipping Barnet,2,Wednesday,0,closed,0.0
+Chipping Barnet,2,Wednesday,1,closed,0.0
+Chipping Barnet,2,Wednesday,2,closed,0.0
+Chipping Barnet,2,Wednesday,3,closed,0.0
+Chipping Barnet,2,Wednesday,4,closed,0.0
+Chipping Barnet,2,Wednesday,5,closed,0.0
+Chipping Barnet,2,Wednesday,6,closed,0.0
+Chipping Barnet,2,Wednesday,7,SSO,9.133333333333333
+Chipping Barnet,2,Wednesday,8,SSO,14.727272727272727
+Chipping Barnet,2,Wednesday,9,SSO,44.66666666666666
+Chipping Barnet,2,Wednesday,10,SSO,57.18181818181818
+Chipping Barnet,2,Wednesday,11,SSO,63.79411764705882
+Chipping Barnet,2,Wednesday,12,SSO,46.58823529411765
+Chipping Barnet,2,Wednesday,13,SSO,40.970588235294116
+Chipping Barnet,2,Wednesday,14,staffed,72.05882352941177
+Chipping Barnet,2,Wednesday,15,staffed,73.17647058823529
+Chipping Barnet,2,Wednesday,16,staffed,75.79411764705883
+Chipping Barnet,2,Wednesday,17,staffed,53.38235294117647
+Chipping Barnet,2,Wednesday,18,staffed,40.36363636363637
+Chipping Barnet,2,Wednesday,19,staffed,33.882352941176464
+Chipping Barnet,2,Wednesday,20,SSO,13.2
+Chipping Barnet,2,Wednesday,21,SSO,9.379310344827584
+Chipping Barnet,2,Wednesday,22,closed,0.0
+Chipping Barnet,2,Wednesday,23,closed,0.0
+Chipping Barnet,3,Thursday,0,closed,0.0
+Chipping Barnet,3,Thursday,1,closed,0.0
+Chipping Barnet,3,Thursday,2,closed,0.0
+Chipping Barnet,3,Thursday,3,closed,0.0
+Chipping Barnet,3,Thursday,4,closed,0.0
+Chipping Barnet,3,Thursday,5,closed,0.0
+Chipping Barnet,3,Thursday,6,closed,0.0
+Chipping Barnet,3,Thursday,7,SSO,4.684210526315789
+Chipping Barnet,3,Thursday,8,SSO,10.06896551724138
+Chipping Barnet,3,Thursday,9,SSO,36.117647058823536
+Chipping Barnet,3,Thursday,10,SSO,54.82352941176471
+Chipping Barnet,3,Thursday,11,SSO,51.88235294117647
+Chipping Barnet,3,Thursday,12,SSO,45.32352941176471
+Chipping Barnet,3,Thursday,13,SSO,47.470588235294116
+Chipping Barnet,3,Thursday,14,SSO,44.0
+Chipping Barnet,3,Thursday,15,SSO,53.5
+Chipping Barnet,3,Thursday,16,SSO,52.32352941176471
+Chipping Barnet,3,Thursday,17,SSO,31.882352941176467
+Chipping Barnet,3,Thursday,18,SSO,26.14705882352941
+Chipping Barnet,3,Thursday,19,SSO,14.787878787878787
+Chipping Barnet,3,Thursday,20,SSO,8.875
+Chipping Barnet,3,Thursday,21,SSO,12.56
+Chipping Barnet,3,Thursday,22,closed,0.0
+Chipping Barnet,3,Thursday,23,closed,0.0
+Chipping Barnet,4,Friday,0,closed,0.0
+Chipping Barnet,4,Friday,1,closed,0.0
+Chipping Barnet,4,Friday,2,closed,0.0
+Chipping Barnet,4,Friday,3,closed,0.0
+Chipping Barnet,4,Friday,4,closed,0.0
+Chipping Barnet,4,Friday,5,closed,0.0
+Chipping Barnet,4,Friday,6,closed,0.0
+Chipping Barnet,4,Friday,7,SSO,9.782608695652174
+Chipping Barnet,4,Friday,8,SSO,12.566666666666665
+Chipping Barnet,4,Friday,9,SSO,46.171428571428564
+Chipping Barnet,4,Friday,10,SSO,63.457142857142856
+Chipping Barnet,4,Friday,11,SSO,62.28571428571429
+Chipping Barnet,4,Friday,12,SSO,57.14285714285714
+Chipping Barnet,4,Friday,13,SSO,46.171428571428564
+Chipping Barnet,4,Friday,14,staffed,81.08823529411767
+Chipping Barnet,4,Friday,15,staffed,78.38235294117645
+Chipping Barnet,4,Friday,16,staffed,75.79411764705883
+Chipping Barnet,4,Friday,17,SSO,43.70588235294117
+Chipping Barnet,4,Friday,18,SSO,17.424242424242426
+Chipping Barnet,4,Friday,19,SSO,15.1
+Chipping Barnet,4,Friday,20,SSO,16.625
+Chipping Barnet,4,Friday,21,SSO,10.615384615384617
+Chipping Barnet,4,Friday,22,closed,0.0
+Chipping Barnet,4,Friday,23,closed,0.0
+Chipping Barnet,5,Saturday,0,closed,0.0
+Chipping Barnet,5,Saturday,1,closed,0.0
+Chipping Barnet,5,Saturday,2,closed,0.0
+Chipping Barnet,5,Saturday,3,closed,0.0
+Chipping Barnet,5,Saturday,4,closed,0.0
+Chipping Barnet,5,Saturday,5,closed,0.0
+Chipping Barnet,5,Saturday,6,closed,0.0
+Chipping Barnet,5,Saturday,7,SSO,10.629629629629632
+Chipping Barnet,5,Saturday,8,SSO,12.823529411764708
+Chipping Barnet,5,Saturday,9,staffed,70.0
+Chipping Barnet,5,Saturday,10,staffed,145.8
+Chipping Barnet,5,Saturday,11,staffed,182.37142857142857
+Chipping Barnet,5,Saturday,12,staffed,161.2
+Chipping Barnet,5,Saturday,13,staffed,108.48571428571428
+Chipping Barnet,5,Saturday,14,staffed,100.08571428571429
+Chipping Barnet,5,Saturday,15,staffed,119.77142857142857
+Chipping Barnet,5,Saturday,16,staffed,107.85714285714286
+Chipping Barnet,5,Saturday,17,closed,0.0
+Chipping Barnet,5,Saturday,18,closed,0.0
+Chipping Barnet,5,Saturday,19,closed,0.0
+Chipping Barnet,5,Saturday,20,closed,0.0
+Chipping Barnet,5,Saturday,21,closed,0.0
+Chipping Barnet,5,Saturday,22,closed,0.0
+Chipping Barnet,5,Saturday,23,closed,0.0
+Chipping Barnet,6,Sunday,0,closed,0.0
+Chipping Barnet,6,Sunday,1,closed,0.0
+Chipping Barnet,6,Sunday,2,closed,0.0
+Chipping Barnet,6,Sunday,3,closed,0.0
+Chipping Barnet,6,Sunday,4,closed,0.0
+Chipping Barnet,6,Sunday,5,closed,0.0
+Chipping Barnet,6,Sunday,6,closed,0.0
+Chipping Barnet,6,Sunday,7,closed,0.0
+Chipping Barnet,6,Sunday,8,closed,0.0
+Chipping Barnet,6,Sunday,9,closed,0.0
+Chipping Barnet,6,Sunday,10,SSO,47.828571428571436
+Chipping Barnet,6,Sunday,11,SSO,52.542857142857144
+Chipping Barnet,6,Sunday,12,SSO,57.88235294117647
+Chipping Barnet,6,Sunday,13,SSO,57.85714285714285
+Chipping Barnet,6,Sunday,14,staffed,99.94285714285714
+Chipping Barnet,6,Sunday,15,staffed,99.31428571428572
+Chipping Barnet,6,Sunday,16,staffed,85.1470588235294
+Chipping Barnet,6,Sunday,17,closed,0.0
+Chipping Barnet,6,Sunday,18,closed,0.0
+Chipping Barnet,6,Sunday,19,closed,0.0
+Chipping Barnet,6,Sunday,20,closed,0.0
+Chipping Barnet,6,Sunday,21,closed,0.0
+Chipping Barnet,6,Sunday,22,closed,0.0
+Chipping Barnet,6,Sunday,23,closed,0.0
+Colindale,0,Monday,0,closed,0.0
+Colindale,0,Monday,1,closed,0.0
+Colindale,0,Monday,2,closed,0.0
+Colindale,0,Monday,3,closed,0.0
+Colindale,0,Monday,4,closed,0.0
+Colindale,0,Monday,5,closed,0.0
+Colindale,0,Monday,6,closed,0.0
+Colindale,0,Monday,7,SSO,4.4
+Colindale,0,Monday,8,SSO,8.318181818181818
+Colindale,0,Monday,9,SSO,12.633333333333333
+Colindale,0,Monday,10,SSO,15.178571428571427
+Colindale,0,Monday,11,SSO,13.966666666666667
+Colindale,0,Monday,12,SSO,15.0625
+Colindale,0,Monday,13,SSO,9.375
+Colindale,0,Monday,14,SSO,11.89655172413793
+Colindale,0,Monday,15,SSO,13.8125
+Colindale,0,Monday,16,SSO,19.3
+Colindale,0,Monday,17,SSO,15.8
+Colindale,0,Monday,18,SSO,14.8
+Colindale,0,Monday,19,SSO,12.0
+Colindale,0,Monday,20,SSO,6.7142857142857135
+Colindale,0,Monday,21,SSO,7.0
+Colindale,0,Monday,22,closed,0.0
+Colindale,0,Monday,23,closed,0.0
+Colindale,1,Tuesday,0,closed,0.0
+Colindale,1,Tuesday,1,closed,0.0
+Colindale,1,Tuesday,2,closed,0.0
+Colindale,1,Tuesday,3,closed,0.0
+Colindale,1,Tuesday,4,closed,0.0
+Colindale,1,Tuesday,5,closed,0.0
+Colindale,1,Tuesday,6,closed,0.0
+Colindale,1,Tuesday,7,SSO,4.142857142857143
+Colindale,1,Tuesday,8,SSO,8.61111111111111
+Colindale,1,Tuesday,9,SSO,13.392857142857142
+Colindale,1,Tuesday,10,SSO,11.852941176470587
+Colindale,1,Tuesday,11,SSO,14.333333333333336
+Colindale,1,Tuesday,12,SSO,15.25
+Colindale,1,Tuesday,13,SSO,18.41379310344828
+Colindale,1,Tuesday,14,staffed,29.939393939393934
+Colindale,1,Tuesday,15,staffed,34.176470588235304
+Colindale,1,Tuesday,16,staffed,47.67647058823529
+Colindale,1,Tuesday,17,staffed,31.382352941176467
+Colindale,1,Tuesday,18,staffed,23.35294117647059
+Colindale,1,Tuesday,19,staffed,19.647058823529417
+Colindale,1,Tuesday,20,SSO,8.08
+Colindale,1,Tuesday,21,SSO,6.15
+Colindale,1,Tuesday,22,closed,0.0
+Colindale,1,Tuesday,23,closed,0.0
+Colindale,2,Wednesday,0,closed,0.0
+Colindale,2,Wednesday,1,closed,0.0
+Colindale,2,Wednesday,2,closed,0.0
+Colindale,2,Wednesday,3,closed,0.0
+Colindale,2,Wednesday,4,closed,0.0
+Colindale,2,Wednesday,5,closed,0.0
+Colindale,2,Wednesday,6,closed,0.0
+Colindale,2,Wednesday,7,SSO,6.142857142857142
+Colindale,2,Wednesday,8,SSO,4.9444444444444455
+Colindale,2,Wednesday,9,SSO,13.222222222222221
+Colindale,2,Wednesday,10,SSO,18.24242424242424
+Colindale,2,Wednesday,11,SSO,22.088235294117645
+Colindale,2,Wednesday,12,SSO,14.166666666666664
+Colindale,2,Wednesday,13,SSO,10.166666666666666
+Colindale,2,Wednesday,14,staffed,23.676470588235286
+Colindale,2,Wednesday,15,staffed,25.617647058823533
+Colindale,2,Wednesday,16,staffed,32.882352941176464
+Colindale,2,Wednesday,17,SSO,18.94117647058824
+Colindale,2,Wednesday,18,SSO,17.206896551724142
+Colindale,2,Wednesday,19,SSO,11.516129032258064
+Colindale,2,Wednesday,20,SSO,7.0
+Colindale,2,Wednesday,21,SSO,7.0
+Colindale,2,Wednesday,22,closed,0.0
+Colindale,2,Wednesday,23,closed,0.0
+Colindale,3,Thursday,0,closed,0.0
+Colindale,3,Thursday,1,closed,0.0
+Colindale,3,Thursday,2,closed,0.0
+Colindale,3,Thursday,3,closed,0.0
+Colindale,3,Thursday,4,closed,0.0
+Colindale,3,Thursday,5,closed,0.0
+Colindale,3,Thursday,6,closed,0.0
+Colindale,3,Thursday,7,SSO,4.090909090909091
+Colindale,3,Thursday,8,SSO,6.608695652173912
+Colindale,3,Thursday,9,staffed,19.47058823529412
+Colindale,3,Thursday,10,staffed,31.14705882352941
+Colindale,3,Thursday,11,staffed,28.470588235294123
+Colindale,3,Thursday,12,SSO,23.235294117647058
+Colindale,3,Thursday,13,SSO,13.21875
+Colindale,3,Thursday,14,SSO,12.566666666666665
+Colindale,3,Thursday,15,SSO,17.70967741935484
+Colindale,3,Thursday,16,SSO,17.529411764705884
+Colindale,3,Thursday,17,SSO,14.363636363636365
+Colindale,3,Thursday,18,SSO,10.5625
+Colindale,3,Thursday,19,SSO,11.5
+Colindale,3,Thursday,20,SSO,8.45
+Colindale,3,Thursday,21,SSO,10.066666666666666
+Colindale,3,Thursday,22,closed,0.0
+Colindale,3,Thursday,23,closed,0.0
+Colindale,4,Friday,0,closed,0.0
+Colindale,4,Friday,1,closed,0.0
+Colindale,4,Friday,2,closed,0.0
+Colindale,4,Friday,3,closed,0.0
+Colindale,4,Friday,4,closed,0.0
+Colindale,4,Friday,5,closed,0.0
+Colindale,4,Friday,6,closed,0.0
+Colindale,4,Friday,7,SSO,4.833333333333333
+Colindale,4,Friday,8,SSO,9.125
+Colindale,4,Friday,9,SSO,8.321428571428571
+Colindale,4,Friday,10,SSO,11.517241379310345
+Colindale,4,Friday,11,SSO,18.75
+Colindale,4,Friday,12,SSO,9.285714285714286
+Colindale,4,Friday,13,SSO,11.451612903225806
+Colindale,4,Friday,14,SSO,12.233333333333333
+Colindale,4,Friday,15,SSO,18.34375
+Colindale,4,Friday,16,SSO,12.451612903225806
+Colindale,4,Friday,17,SSO,9.0
+Colindale,4,Friday,18,SSO,13.84
+Colindale,4,Friday,19,SSO,11.818181818181818
+Colindale,4,Friday,20,SSO,5.157894736842105
+Colindale,4,Friday,21,SSO,7.0
+Colindale,4,Friday,22,closed,0.0
+Colindale,4,Friday,23,closed,0.0
+Colindale,5,Saturday,0,closed,0.0
+Colindale,5,Saturday,1,closed,0.0
+Colindale,5,Saturday,2,closed,0.0
+Colindale,5,Saturday,3,closed,0.0
+Colindale,5,Saturday,4,closed,0.0
+Colindale,5,Saturday,5,closed,0.0
+Colindale,5,Saturday,6,closed,0.0
+Colindale,5,Saturday,7,SSO,4.0
+Colindale,5,Saturday,8,SSO,6.5357142857142865
+Colindale,5,Saturday,9,staffed,14.911764705882351
+Colindale,5,Saturday,10,staffed,25.5
+Colindale,5,Saturday,11,staffed,35.8
+Colindale,5,Saturday,12,staffed,30.942857142857147
+Colindale,5,Saturday,13,staffed,31.82857142857143
+Colindale,5,Saturday,14,staffed,35.05714285714286
+Colindale,5,Saturday,15,staffed,32.65714285714286
+Colindale,5,Saturday,16,staffed,42.68571428571428
+Colindale,5,Saturday,17,closed,0.0
+Colindale,5,Saturday,18,closed,0.0
+Colindale,5,Saturday,19,closed,0.0
+Colindale,5,Saturday,20,closed,0.0
+Colindale,5,Saturday,21,closed,0.0
+Colindale,5,Saturday,22,closed,0.0
+Colindale,5,Saturday,23,closed,0.0
+Colindale,6,Sunday,0,closed,0.0
+Colindale,6,Sunday,1,closed,0.0
+Colindale,6,Sunday,2,closed,0.0
+Colindale,6,Sunday,3,closed,0.0
+Colindale,6,Sunday,4,closed,0.0
+Colindale,6,Sunday,5,closed,0.0
+Colindale,6,Sunday,6,closed,0.0
+Colindale,6,Sunday,7,closed,0.0
+Colindale,6,Sunday,8,closed,0.0
+Colindale,6,Sunday,9,closed,0.0
+Colindale,6,Sunday,10,SSO,13.6
+Colindale,6,Sunday,11,SSO,16.272727272727273
+Colindale,6,Sunday,12,SSO,14.125
+Colindale,6,Sunday,13,SSO,24.303030303030305
+Colindale,6,Sunday,14,staffed,31.35294117647059
+Colindale,6,Sunday,15,staffed,48.485714285714295
+Colindale,6,Sunday,16,staffed,45.558823529411775
+Colindale,6,Sunday,17,closed,0.0
+Colindale,6,Sunday,18,closed,0.0
+Colindale,6,Sunday,19,closed,0.0
+Colindale,6,Sunday,20,closed,0.0
+Colindale,6,Sunday,21,closed,0.0
+Colindale,6,Sunday,22,closed,0.0
+Colindale,6,Sunday,23,closed,0.0
+East Finchley,0,Monday,0,closed,0.0
+East Finchley,0,Monday,1,closed,0.0
+East Finchley,0,Monday,2,closed,0.0
+East Finchley,0,Monday,3,closed,0.0
+East Finchley,0,Monday,4,closed,0.0
+East Finchley,0,Monday,5,closed,0.0
+East Finchley,0,Monday,6,closed,0.0
+East Finchley,0,Monday,7,closed,0.0
+East Finchley,0,Monday,8,SSO,21.11111111111111
+East Finchley,0,Monday,9,staffed,37.2258064516129
+East Finchley,0,Monday,10,staffed,34.65625
+East Finchley,0,Monday,11,staffed,47.28125
+East Finchley,0,Monday,12,SSO,32.31034482758621
+East Finchley,0,Monday,13,SSO,16.9
+East Finchley,0,Monday,14,SSO,20.068965517241377
+East Finchley,0,Monday,15,SSO,39.9
+East Finchley,0,Monday,16,SSO,26.677419354838708
+East Finchley,0,Monday,17,SSO,12.482758620689655
+East Finchley,0,Monday,18,SSO,7.63157894736842
+East Finchley,0,Monday,19,SSO,8.833333333333334
+East Finchley,0,Monday,20,closed,0.0
+East Finchley,0,Monday,21,closed,0.0
+East Finchley,0,Monday,22,closed,0.0
+East Finchley,0,Monday,23,closed,0.0
+East Finchley,1,Tuesday,0,closed,0.0
+East Finchley,1,Tuesday,1,closed,0.0
+East Finchley,1,Tuesday,2,closed,0.0
+East Finchley,1,Tuesday,3,closed,0.0
+East Finchley,1,Tuesday,4,closed,0.0
+East Finchley,1,Tuesday,5,closed,0.0
+East Finchley,1,Tuesday,6,closed,0.0
+East Finchley,1,Tuesday,7,closed,0.0
+East Finchley,1,Tuesday,8,SSO,13.806451612903226
+East Finchley,1,Tuesday,9,SSO,23.59375
+East Finchley,1,Tuesday,10,SSO,22.12121212121212
+East Finchley,1,Tuesday,11,SSO,18.51515151515152
+East Finchley,1,Tuesday,12,SSO,17.515151515151516
+East Finchley,1,Tuesday,13,SSO,12.741935483870966
+East Finchley,1,Tuesday,14,SSO,15.0
+East Finchley,1,Tuesday,15,SSO,31.75757575757576
+East Finchley,1,Tuesday,16,SSO,29.617647058823533
+East Finchley,1,Tuesday,17,SSO,12.0
+East Finchley,1,Tuesday,18,SSO,5.375
+East Finchley,1,Tuesday,19,SSO,6.6818181818181825
+East Finchley,1,Tuesday,20,closed,0.0
+East Finchley,1,Tuesday,21,closed,0.0
+East Finchley,1,Tuesday,22,closed,0.0
+East Finchley,1,Tuesday,23,closed,0.0
+East Finchley,2,Wednesday,0,closed,0.0
+East Finchley,2,Wednesday,1,closed,0.0
+East Finchley,2,Wednesday,2,closed,0.0
+East Finchley,2,Wednesday,3,closed,0.0
+East Finchley,2,Wednesday,4,closed,0.0
+East Finchley,2,Wednesday,5,closed,0.0
+East Finchley,2,Wednesday,6,closed,0.0
+East Finchley,2,Wednesday,7,closed,0.0
+East Finchley,2,Wednesday,8,SSO,21.846153846153847
+East Finchley,2,Wednesday,9,SSO,21.387096774193548
+East Finchley,2,Wednesday,10,SSO,23.75
+East Finchley,2,Wednesday,11,SSO,23.33333333333333
+East Finchley,2,Wednesday,12,SSO,17.303030303030305
+East Finchley,2,Wednesday,13,SSO,19.454545454545453
+East Finchley,2,Wednesday,14,staffed,31.363636363636363
+East Finchley,2,Wednesday,15,staffed,43.441176470588225
+East Finchley,2,Wednesday,16,staffed,36.911764705882355
+East Finchley,2,Wednesday,17,staffed,29.375
+East Finchley,2,Wednesday,18,staffed,16.96969696969697
+East Finchley,2,Wednesday,19,staffed,14.625
+East Finchley,2,Wednesday,20,closed,0.0
+East Finchley,2,Wednesday,21,closed,0.0
+East Finchley,2,Wednesday,22,closed,0.0
+East Finchley,2,Wednesday,23,closed,0.0
+East Finchley,3,Thursday,0,closed,0.0
+East Finchley,3,Thursday,1,closed,0.0
+East Finchley,3,Thursday,2,closed,0.0
+East Finchley,3,Thursday,3,closed,0.0
+East Finchley,3,Thursday,4,closed,0.0
+East Finchley,3,Thursday,5,closed,0.0
+East Finchley,3,Thursday,6,closed,0.0
+East Finchley,3,Thursday,7,closed,0.0
+East Finchley,3,Thursday,8,SSO,12.521739130434785
+East Finchley,3,Thursday,9,SSO,23.60606060606061
+East Finchley,3,Thursday,10,SSO,18.4375
+East Finchley,3,Thursday,11,SSO,25.264705882352942
+East Finchley,3,Thursday,12,SSO,15.548387096774194
+East Finchley,3,Thursday,13,SSO,19.09375
+East Finchley,3,Thursday,14,staffed,29.735294117647058
+East Finchley,3,Thursday,15,staffed,38.51515151515152
+East Finchley,3,Thursday,16,staffed,36.382352941176464
+East Finchley,3,Thursday,17,SSO,13.517241379310345
+East Finchley,3,Thursday,18,SSO,6.8181818181818175
+East Finchley,3,Thursday,19,SSO,8.666666666666666
+East Finchley,3,Thursday,20,closed,0.0
+East Finchley,3,Thursday,21,closed,0.0
+East Finchley,3,Thursday,22,closed,0.0
+East Finchley,3,Thursday,23,closed,0.0
+East Finchley,4,Friday,0,closed,0.0
+East Finchley,4,Friday,1,closed,0.0
+East Finchley,4,Friday,2,closed,0.0
+East Finchley,4,Friday,3,closed,0.0
+East Finchley,4,Friday,4,closed,0.0
+East Finchley,4,Friday,5,closed,0.0
+East Finchley,4,Friday,6,closed,0.0
+East Finchley,4,Friday,7,closed,0.0
+East Finchley,4,Friday,8,SSO,8.541666666666666
+East Finchley,4,Friday,9,SSO,19.806451612903224
+East Finchley,4,Friday,10,SSO,23.65625
+East Finchley,4,Friday,11,SSO,17.78125
+East Finchley,4,Friday,12,SSO,17.53125
+East Finchley,4,Friday,13,SSO,9.322580645161288
+East Finchley,4,Friday,14,SSO,16.866666666666667
+East Finchley,4,Friday,15,SSO,28.060606060606066
+East Finchley,4,Friday,16,SSO,23.66666666666667
+East Finchley,4,Friday,17,SSO,13.714285714285715
+East Finchley,4,Friday,18,SSO,7.043478260869565
+East Finchley,4,Friday,19,SSO,5.6875
+East Finchley,4,Friday,20,closed,0.0
+East Finchley,4,Friday,21,closed,0.0
+East Finchley,4,Friday,22,closed,0.0
+East Finchley,4,Friday,23,closed,0.0
+East Finchley,5,Saturday,0,closed,0.0
+East Finchley,5,Saturday,1,closed,0.0
+East Finchley,5,Saturday,2,closed,0.0
+East Finchley,5,Saturday,3,closed,0.0
+East Finchley,5,Saturday,4,closed,0.0
+East Finchley,5,Saturday,5,closed,0.0
+East Finchley,5,Saturday,6,closed,0.0
+East Finchley,5,Saturday,7,closed,0.0
+East Finchley,5,Saturday,8,SSO,11.647058823529413
+East Finchley,5,Saturday,9,staffed,35.714285714285715
+East Finchley,5,Saturday,10,staffed,43.94285714285714
+East Finchley,5,Saturday,11,staffed,57.771428571428565
+East Finchley,5,Saturday,12,SSO,34.8
+East Finchley,5,Saturday,13,SSO,20.393939393939394
+East Finchley,5,Saturday,14,SSO,20.696969696969692
+East Finchley,5,Saturday,15,SSO,27.735294117647058
+East Finchley,5,Saturday,16,SSO,20.764705882352946
+East Finchley,5,Saturday,17,closed,0.0
+East Finchley,5,Saturday,18,closed,0.0
+East Finchley,5,Saturday,19,closed,0.0
+East Finchley,5,Saturday,20,closed,0.0
+East Finchley,5,Saturday,21,closed,0.0
+East Finchley,5,Saturday,22,closed,0.0
+East Finchley,5,Saturday,23,closed,0.0
+East Finchley,6,Sunday,0,closed,0.0
+East Finchley,6,Sunday,1,closed,0.0
+East Finchley,6,Sunday,2,closed,0.0
+East Finchley,6,Sunday,3,closed,0.0
+East Finchley,6,Sunday,4,closed,0.0
+East Finchley,6,Sunday,5,closed,0.0
+East Finchley,6,Sunday,6,closed,0.0
+East Finchley,6,Sunday,7,closed,0.0
+East Finchley,6,Sunday,8,closed,0.0
+East Finchley,6,Sunday,9,closed,0.0
+East Finchley,6,Sunday,10,closed,0.0
+East Finchley,6,Sunday,11,closed,0.0
+East Finchley,6,Sunday,12,closed,0.0
+East Finchley,6,Sunday,13,closed,0.0
+East Finchley,6,Sunday,14,closed,0.0
+East Finchley,6,Sunday,15,closed,0.0
+East Finchley,6,Sunday,16,closed,0.0
+East Finchley,6,Sunday,17,closed,0.0
+East Finchley,6,Sunday,18,closed,0.0
+East Finchley,6,Sunday,19,closed,0.0
+East Finchley,6,Sunday,20,closed,0.0
+East Finchley,6,Sunday,21,closed,0.0
+East Finchley,6,Sunday,22,closed,0.0
+East Finchley,6,Sunday,23,closed,0.0
+Edgware,0,Monday,0,closed,0.0
+Edgware,0,Monday,1,closed,0.0
+Edgware,0,Monday,2,closed,0.0
+Edgware,0,Monday,3,closed,0.0
+Edgware,0,Monday,4,closed,0.0
+Edgware,0,Monday,5,closed,0.0
+Edgware,0,Monday,6,closed,0.0
+Edgware,0,Monday,7,SSO,6.047619047619048
+Edgware,0,Monday,8,SSO,11.172413793103447
+Edgware,0,Monday,9,staffed,36.483870967741936
+Edgware,0,Monday,10,staffed,58.12121212121213
+Edgware,0,Monday,11,staffed,69.06060606060606
+Edgware,0,Monday,12,SSO,43.78787878787879
+Edgware,0,Monday,13,SSO,36.9375
+Edgware,0,Monday,14,SSO,47.48484848484848
+Edgware,0,Monday,15,SSO,46.9375
+Edgware,0,Monday,16,SSO,55.79411764705882
+Edgware,0,Monday,17,SSO,27.84375
+Edgware,0,Monday,18,SSO,22.448275862068964
+Edgware,0,Monday,19,SSO,18.363636363636363
+Edgware,0,Monday,20,SSO,11.833333333333336
+Edgware,0,Monday,21,SSO,9.863636363636363
+Edgware,0,Monday,22,closed,0.0
+Edgware,0,Monday,23,closed,0.0
+Edgware,1,Tuesday,0,closed,0.0
+Edgware,1,Tuesday,1,closed,0.0
+Edgware,1,Tuesday,2,closed,0.0
+Edgware,1,Tuesday,3,closed,0.0
+Edgware,1,Tuesday,4,closed,0.0
+Edgware,1,Tuesday,5,closed,0.0
+Edgware,1,Tuesday,6,closed,0.0
+Edgware,1,Tuesday,7,SSO,6.043478260869565
+Edgware,1,Tuesday,8,SSO,12.428571428571427
+Edgware,1,Tuesday,9,SSO,32.375
+Edgware,1,Tuesday,10,SSO,38.382352941176464
+Edgware,1,Tuesday,11,SSO,49.58823529411765
+Edgware,1,Tuesday,12,SSO,40.3235294117647
+Edgware,1,Tuesday,13,SSO,33.36363636363637
+Edgware,1,Tuesday,14,staffed,70.05882352941177
+Edgware,1,Tuesday,15,staffed,60.58823529411765
+Edgware,1,Tuesday,16,staffed,70.8529411764706
+Edgware,1,Tuesday,17,SSO,28.176470588235286
+Edgware,1,Tuesday,18,SSO,17.483870967741936
+Edgware,1,Tuesday,19,SSO,20.666666666666668
+Edgware,1,Tuesday,20,SSO,13.25925925925926
+Edgware,1,Tuesday,21,SSO,14.565217391304348
+Edgware,1,Tuesday,22,closed,0.0
+Edgware,1,Tuesday,23,closed,0.0
+Edgware,2,Wednesday,0,closed,0.0
+Edgware,2,Wednesday,1,closed,0.0
+Edgware,2,Wednesday,2,closed,0.0
+Edgware,2,Wednesday,3,closed,0.0
+Edgware,2,Wednesday,4,closed,0.0
+Edgware,2,Wednesday,5,closed,0.0
+Edgware,2,Wednesday,6,closed,0.0
+Edgware,2,Wednesday,7,SSO,6.392857142857142
+Edgware,2,Wednesday,8,SSO,15.172413793103447
+Edgware,2,Wednesday,9,SSO,21.51515151515152
+Edgware,2,Wednesday,10,SSO,26.205882352941174
+Edgware,2,Wednesday,11,SSO,34.26470588235294
+Edgware,2,Wednesday,12,SSO,32.55882352941177
+Edgware,2,Wednesday,13,SSO,22.181818181818183
+Edgware,2,Wednesday,14,SSO,26.5
+Edgware,2,Wednesday,15,SSO,37.058823529411775
+Edgware,2,Wednesday,16,SSO,37.1764705882353
+Edgware,2,Wednesday,17,SSO,24.03333333333333
+Edgware,2,Wednesday,18,SSO,24.214285714285715
+Edgware,2,Wednesday,19,SSO,15.275862068965518
+Edgware,2,Wednesday,20,SSO,16.310344827586206
+Edgware,2,Wednesday,21,SSO,8.8
+Edgware,2,Wednesday,22,closed,0.0
+Edgware,2,Wednesday,23,closed,0.0
+Edgware,3,Thursday,0,closed,0.0
+Edgware,3,Thursday,1,closed,0.0
+Edgware,3,Thursday,2,closed,0.0
+Edgware,3,Thursday,3,closed,0.0
+Edgware,3,Thursday,4,closed,0.0
+Edgware,3,Thursday,5,closed,0.0
+Edgware,3,Thursday,6,closed,0.0
+Edgware,3,Thursday,7,SSO,9.73913043478261
+Edgware,3,Thursday,8,SSO,14.666666666666664
+Edgware,3,Thursday,9,SSO,43.29411764705883
+Edgware,3,Thursday,10,SSO,42.441176470588225
+Edgware,3,Thursday,11,SSO,38.79411764705883
+Edgware,3,Thursday,12,SSO,38.3235294117647
+Edgware,3,Thursday,13,SSO,37.352941176470594
+Edgware,3,Thursday,14,staffed,64.70588235294117
+Edgware,3,Thursday,15,staffed,64.38235294117646
+Edgware,3,Thursday,16,staffed,68.02941176470588
+Edgware,3,Thursday,17,staffed,60.29411764705882
+Edgware,3,Thursday,18,staffed,43.529411764705884
+Edgware,3,Thursday,19,staffed,35.76470588235294
+Edgware,3,Thursday,20,SSO,17.2
+Edgware,3,Thursday,21,SSO,19.26923076923077
+Edgware,3,Thursday,22,closed,0.0
+Edgware,3,Thursday,23,closed,0.0
+Edgware,4,Friday,0,closed,0.0
+Edgware,4,Friday,1,closed,0.0
+Edgware,4,Friday,2,closed,0.0
+Edgware,4,Friday,3,closed,0.0
+Edgware,4,Friday,4,closed,0.0
+Edgware,4,Friday,5,closed,0.0
+Edgware,4,Friday,6,closed,0.0
+Edgware,4,Friday,7,SSO,11.375
+Edgware,4,Friday,8,SSO,22.90625
+Edgware,4,Friday,9,SSO,31.058823529411764
+Edgware,4,Friday,10,SSO,38.17142857142857
+Edgware,4,Friday,11,SSO,41.68571428571428
+Edgware,4,Friday,12,SSO,50.411764705882355
+Edgware,4,Friday,13,SSO,44.29411764705883
+Edgware,4,Friday,14,SSO,52.38235294117647
+Edgware,4,Friday,15,SSO,70.0
+Edgware,4,Friday,16,SSO,78.79411764705883
+Edgware,4,Friday,17,SSO,35.885714285714286
+Edgware,4,Friday,18,SSO,20.633333333333333
+Edgware,4,Friday,19,SSO,14.75
+Edgware,4,Friday,20,SSO,7.045454545454546
+Edgware,4,Friday,21,SSO,7.333333333333332
+Edgware,4,Friday,22,closed,0.0
+Edgware,4,Friday,23,closed,0.0
+Edgware,5,Saturday,0,closed,0.0
+Edgware,5,Saturday,1,closed,0.0
+Edgware,5,Saturday,2,closed,0.0
+Edgware,5,Saturday,3,closed,0.0
+Edgware,5,Saturday,4,closed,0.0
+Edgware,5,Saturday,5,closed,0.0
+Edgware,5,Saturday,6,closed,0.0
+Edgware,5,Saturday,7,SSO,5.153846153846153
+Edgware,5,Saturday,8,SSO,13.45
+Edgware,5,Saturday,9,staffed,29.742857142857147
+Edgware,5,Saturday,10,staffed,53.02857142857143
+Edgware,5,Saturday,11,staffed,58.31428571428572
+Edgware,5,Saturday,12,staffed,52.6
+Edgware,5,Saturday,13,staffed,35.714285714285715
+Edgware,5,Saturday,14,staffed,40.37142857142858
+Edgware,5,Saturday,15,staffed,47.14285714285714
+Edgware,5,Saturday,16,staffed,46.25714285714286
+Edgware,5,Saturday,17,closed,0.0
+Edgware,5,Saturday,18,closed,0.0
+Edgware,5,Saturday,19,closed,0.0
+Edgware,5,Saturday,20,closed,0.0
+Edgware,5,Saturday,21,closed,0.0
+Edgware,5,Saturday,22,closed,0.0
+Edgware,5,Saturday,23,closed,0.0
+Edgware,6,Sunday,0,closed,0.0
+Edgware,6,Sunday,1,closed,0.0
+Edgware,6,Sunday,2,closed,0.0
+Edgware,6,Sunday,3,closed,0.0
+Edgware,6,Sunday,4,closed,0.0
+Edgware,6,Sunday,5,closed,0.0
+Edgware,6,Sunday,6,closed,0.0
+Edgware,6,Sunday,7,closed,0.0
+Edgware,6,Sunday,8,closed,0.0
+Edgware,6,Sunday,9,closed,0.0
+Edgware,6,Sunday,10,SSO,38.970588235294116
+Edgware,6,Sunday,11,SSO,45.441176470588225
+Edgware,6,Sunday,12,SSO,43.771428571428565
+Edgware,6,Sunday,13,SSO,41.5
+Edgware,6,Sunday,14,staffed,91.38235294117645
+Edgware,6,Sunday,15,staffed,100.17647058823529
+Edgware,6,Sunday,16,staffed,93.17142857142859
+Edgware,6,Sunday,17,closed,0.0
+Edgware,6,Sunday,18,closed,0.0
+Edgware,6,Sunday,19,closed,0.0
+Edgware,6,Sunday,20,closed,0.0
+Edgware,6,Sunday,21,closed,0.0
+Edgware,6,Sunday,22,closed,0.0
+Edgware,6,Sunday,23,closed,0.0
+Finchley Church End,0,Monday,0,closed,0.0
+Finchley Church End,0,Monday,1,closed,0.0
+Finchley Church End,0,Monday,2,closed,0.0
+Finchley Church End,0,Monday,3,closed,0.0
+Finchley Church End,0,Monday,4,closed,0.0
+Finchley Church End,0,Monday,5,closed,0.0
+Finchley Church End,0,Monday,6,closed,0.0
+Finchley Church End,0,Monday,7,SSO,9.892857142857142
+Finchley Church End,0,Monday,8,SSO,14.09375
+Finchley Church End,0,Monday,9,SSO,42.30303030303031
+Finchley Church End,0,Monday,10,SSO,43.06060606060606
+Finchley Church End,0,Monday,11,SSO,55.15625
+Finchley Church End,0,Monday,12,SSO,43.60606060606061
+Finchley Church End,0,Monday,13,SSO,43.375
+Finchley Church End,0,Monday,14,staffed,72.24242424242425
+Finchley Church End,0,Monday,15,staffed,83.73529411764707
+Finchley Church End,0,Monday,16,staffed,93.9375
+Finchley Church End,0,Monday,17,staffed,49.4375
+Finchley Church End,0,Monday,18,staffed,49.903225806451616
+Finchley Church End,0,Monday,19,staffed,44.352941176470594
+Finchley Church End,0,Monday,20,SSO,11.965517241379311
+Finchley Church End,0,Monday,21,SSO,11.137931034482758
+Finchley Church End,0,Monday,22,closed,0.0
+Finchley Church End,0,Monday,23,closed,0.0
+Finchley Church End,1,Tuesday,0,closed,0.0
+Finchley Church End,1,Tuesday,1,closed,0.0
+Finchley Church End,1,Tuesday,2,closed,0.0
+Finchley Church End,1,Tuesday,3,closed,0.0
+Finchley Church End,1,Tuesday,4,closed,0.0
+Finchley Church End,1,Tuesday,5,closed,0.0
+Finchley Church End,1,Tuesday,6,closed,0.0
+Finchley Church End,1,Tuesday,7,SSO,7.538461538461537
+Finchley Church End,1,Tuesday,8,SSO,14.272727272727273
+Finchley Church End,1,Tuesday,9,SSO,41.8235294117647
+Finchley Church End,1,Tuesday,10,SSO,52.5
+Finchley Church End,1,Tuesday,11,SSO,50.20588235294117
+Finchley Church End,1,Tuesday,12,SSO,49.82352941176471
+Finchley Church End,1,Tuesday,13,SSO,30.78787878787879
+Finchley Church End,1,Tuesday,14,SSO,33.323529411764696
+Finchley Church End,1,Tuesday,15,SSO,37.52941176470589
+Finchley Church End,1,Tuesday,16,SSO,38.970588235294116
+Finchley Church End,1,Tuesday,17,SSO,23.63636363636364
+Finchley Church End,1,Tuesday,18,SSO,25.78787878787879
+Finchley Church End,1,Tuesday,19,SSO,19.677419354838708
+Finchley Church End,1,Tuesday,20,SSO,12.866666666666667
+Finchley Church End,1,Tuesday,21,SSO,11.785714285714285
+Finchley Church End,1,Tuesday,22,closed,0.0
+Finchley Church End,1,Tuesday,23,closed,0.0
+Finchley Church End,2,Wednesday,0,closed,0.0
+Finchley Church End,2,Wednesday,1,closed,0.0
+Finchley Church End,2,Wednesday,2,closed,0.0
+Finchley Church End,2,Wednesday,3,closed,0.0
+Finchley Church End,2,Wednesday,4,closed,0.0
+Finchley Church End,2,Wednesday,5,closed,0.0
+Finchley Church End,2,Wednesday,6,closed,0.0
+Finchley Church End,2,Wednesday,7,SSO,6.481481481481483
+Finchley Church End,2,Wednesday,8,SSO,12.393939393939394
+Finchley Church End,2,Wednesday,9,SSO,48.87878787878788
+Finchley Church End,2,Wednesday,10,SSO,43.441176470588225
+Finchley Church End,2,Wednesday,11,SSO,47.0
+Finchley Church End,2,Wednesday,12,SSO,33.81818181818182
+Finchley Church End,2,Wednesday,13,SSO,36.57575757575758
+Finchley Church End,2,Wednesday,14,staffed,63.20588235294117
+Finchley Church End,2,Wednesday,15,staffed,71.11764705882355
+Finchley Church End,2,Wednesday,16,staffed,77.0
+Finchley Church End,2,Wednesday,17,SSO,31.96969696969697
+Finchley Church End,2,Wednesday,18,SSO,19.21875
+Finchley Church End,2,Wednesday,19,SSO,16.1
+Finchley Church End,2,Wednesday,20,SSO,12.59375
+Finchley Church End,2,Wednesday,21,SSO,8.592592592592592
+Finchley Church End,2,Wednesday,22,closed,0.0
+Finchley Church End,2,Wednesday,23,closed,0.0
+Finchley Church End,3,Thursday,0,closed,0.0
+Finchley Church End,3,Thursday,1,closed,0.0
+Finchley Church End,3,Thursday,2,closed,0.0
+Finchley Church End,3,Thursday,3,closed,0.0
+Finchley Church End,3,Thursday,4,closed,0.0
+Finchley Church End,3,Thursday,5,closed,0.0
+Finchley Church End,3,Thursday,6,closed,0.0
+Finchley Church End,3,Thursday,7,SSO,6.0344827586206895
+Finchley Church End,3,Thursday,8,SSO,12.06451612903226
+Finchley Church End,3,Thursday,9,SSO,33.529411764705884
+Finchley Church End,3,Thursday,10,SSO,46.79411764705882
+Finchley Church End,3,Thursday,11,SSO,43.61764705882353
+Finchley Church End,3,Thursday,12,SSO,40.382352941176464
+Finchley Church End,3,Thursday,13,SSO,38.441176470588225
+Finchley Church End,3,Thursday,14,SSO,27.823529411764714
+Finchley Church End,3,Thursday,15,SSO,36.941176470588225
+Finchley Church End,3,Thursday,16,SSO,33.97058823529412
+Finchley Church End,3,Thursday,17,SSO,26.764705882352942
+Finchley Church End,3,Thursday,18,SSO,20.794117647058822
+Finchley Church End,3,Thursday,19,SSO,15.21875
+Finchley Church End,3,Thursday,20,SSO,11.393939393939394
+Finchley Church End,3,Thursday,21,SSO,11.20689655172414
+Finchley Church End,3,Thursday,22,closed,0.0
+Finchley Church End,3,Thursday,23,closed,0.0
+Finchley Church End,4,Friday,0,closed,0.0
+Finchley Church End,4,Friday,1,closed,0.0
+Finchley Church End,4,Friday,2,closed,0.0
+Finchley Church End,4,Friday,3,closed,0.0
+Finchley Church End,4,Friday,4,closed,0.0
+Finchley Church End,4,Friday,5,closed,0.0
+Finchley Church End,4,Friday,6,closed,0.0
+Finchley Church End,4,Friday,7,SSO,7.96
+Finchley Church End,4,Friday,8,SSO,9.727272727272727
+Finchley Church End,4,Friday,9,staffed,74.55882352941177
+Finchley Church End,4,Friday,10,staffed,82.85714285714286
+Finchley Church End,4,Friday,11,staffed,71.88235294117645
+Finchley Church End,4,Friday,12,SSO,47.74285714285714
+Finchley Church End,4,Friday,13,SSO,28.57142857142857
+Finchley Church End,4,Friday,14,SSO,37.8235294117647
+Finchley Church End,4,Friday,15,SSO,47.764705882352935
+Finchley Church End,4,Friday,16,SSO,46.85714285714285
+Finchley Church End,4,Friday,17,SSO,29.85294117647059
+Finchley Church End,4,Friday,18,SSO,20.032258064516128
+Finchley Church End,4,Friday,19,SSO,9.225806451612904
+Finchley Church End,4,Friday,20,SSO,7.9655172413793105
+Finchley Church End,4,Friday,21,SSO,7.52
+Finchley Church End,4,Friday,22,closed,0.0
+Finchley Church End,4,Friday,23,closed,0.0
+Finchley Church End,5,Saturday,0,closed,0.0
+Finchley Church End,5,Saturday,1,closed,0.0
+Finchley Church End,5,Saturday,2,closed,0.0
+Finchley Church End,5,Saturday,3,closed,0.0
+Finchley Church End,5,Saturday,4,closed,0.0
+Finchley Church End,5,Saturday,5,closed,0.0
+Finchley Church End,5,Saturday,6,closed,0.0
+Finchley Church End,5,Saturday,7,SSO,8.619047619047619
+Finchley Church End,5,Saturday,8,SSO,10.827586206896553
+Finchley Church End,5,Saturday,9,staffed,41.714285714285715
+Finchley Church End,5,Saturday,10,staffed,75.48571428571428
+Finchley Church End,5,Saturday,11,staffed,91.11428571428571
+Finchley Church End,5,Saturday,12,staffed,76.97142857142858
+Finchley Church End,5,Saturday,13,staffed,58.74285714285714
+Finchley Church End,5,Saturday,14,staffed,86.31428571428572
+Finchley Church End,5,Saturday,15,staffed,83.4
+Finchley Church End,5,Saturday,16,staffed,83.74285714285716
+Finchley Church End,5,Saturday,17,closed,0.0
+Finchley Church End,5,Saturday,18,closed,0.0
+Finchley Church End,5,Saturday,19,closed,0.0
+Finchley Church End,5,Saturday,20,closed,0.0
+Finchley Church End,5,Saturday,21,closed,0.0
+Finchley Church End,5,Saturday,22,closed,0.0
+Finchley Church End,5,Saturday,23,closed,0.0
+Finchley Church End,6,Sunday,0,closed,0.0
+Finchley Church End,6,Sunday,1,closed,0.0
+Finchley Church End,6,Sunday,2,closed,0.0
+Finchley Church End,6,Sunday,3,closed,0.0
+Finchley Church End,6,Sunday,4,closed,0.0
+Finchley Church End,6,Sunday,5,closed,0.0
+Finchley Church End,6,Sunday,6,closed,0.0
+Finchley Church End,6,Sunday,7,closed,0.0
+Finchley Church End,6,Sunday,8,closed,0.0
+Finchley Church End,6,Sunday,9,closed,0.0
+Finchley Church End,6,Sunday,10,SSO,50.371428571428574
+Finchley Church End,6,Sunday,11,SSO,65.35294117647061
+Finchley Church End,6,Sunday,12,SSO,52.11764705882353
+Finchley Church End,6,Sunday,13,SSO,52.85714285714285
+Finchley Church End,6,Sunday,14,staffed,143.58823529411762
+Finchley Church End,6,Sunday,15,staffed,132.85294117647058
+Finchley Church End,6,Sunday,16,staffed,123.11428571428571
+Finchley Church End,6,Sunday,17,closed,0.0
+Finchley Church End,6,Sunday,18,closed,0.0
+Finchley Church End,6,Sunday,19,closed,0.0
+Finchley Church End,6,Sunday,20,closed,0.0
+Finchley Church End,6,Sunday,21,closed,0.0
+Finchley Church End,6,Sunday,22,closed,0.0
+Finchley Church End,6,Sunday,23,closed,0.0
+Golders Green,0,Monday,0,closed,0.0
+Golders Green,0,Monday,1,closed,0.0
+Golders Green,0,Monday,2,closed,0.0
+Golders Green,0,Monday,3,closed,0.0
+Golders Green,0,Monday,4,closed,0.0
+Golders Green,0,Monday,5,closed,0.0
+Golders Green,0,Monday,6,closed,0.0
+Golders Green,0,Monday,7,closed,0.0
+Golders Green,0,Monday,8,SSO,5.88
+Golders Green,0,Monday,9,SSO,19.88
+Golders Green,0,Monday,10,SSO,21.63333333333333
+Golders Green,0,Monday,11,SSO,23.73333333333333
+Golders Green,0,Monday,12,SSO,23.53333333333333
+Golders Green,0,Monday,13,SSO,19.78125
+Golders Green,0,Monday,14,SSO,27.6875
+Golders Green,0,Monday,15,SSO,25.25
+Golders Green,0,Monday,16,SSO,27.37931034482759
+Golders Green,0,Monday,17,SSO,20.107142857142858
+Golders Green,0,Monday,18,SSO,23.48148148148148
+Golders Green,0,Monday,19,SSO,16.137931034482758
+Golders Green,0,Monday,20,closed,0.0
+Golders Green,0,Monday,21,closed,0.0
+Golders Green,0,Monday,22,closed,0.0
+Golders Green,0,Monday,23,closed,0.0
+Golders Green,1,Tuesday,0,closed,0.0
+Golders Green,1,Tuesday,1,closed,0.0
+Golders Green,1,Tuesday,2,closed,0.0
+Golders Green,1,Tuesday,3,closed,0.0
+Golders Green,1,Tuesday,4,closed,0.0
+Golders Green,1,Tuesday,5,closed,0.0
+Golders Green,1,Tuesday,6,closed,0.0
+Golders Green,1,Tuesday,7,closed,0.0
+Golders Green,1,Tuesday,8,SSO,7.136363636363638
+Golders Green,1,Tuesday,9,SSO,17.363636363636363
+Golders Green,1,Tuesday,10,SSO,23.823529411764714
+Golders Green,1,Tuesday,11,SSO,22.84848484848485
+Golders Green,1,Tuesday,12,SSO,22.44117647058824
+Golders Green,1,Tuesday,13,SSO,25.29032258064516
+Golders Green,1,Tuesday,14,staffed,74.3529411764706
+Golders Green,1,Tuesday,15,staffed,64.76470588235293
+Golders Green,1,Tuesday,16,staffed,63.33333333333334
+Golders Green,1,Tuesday,17,SSO,36.903225806451616
+Golders Green,1,Tuesday,18,SSO,16.357142857142858
+Golders Green,1,Tuesday,19,SSO,16.137931034482758
+Golders Green,1,Tuesday,20,closed,0.0
+Golders Green,1,Tuesday,21,closed,0.0
+Golders Green,1,Tuesday,22,closed,0.0
+Golders Green,1,Tuesday,23,closed,0.0
+Golders Green,2,Wednesday,0,closed,0.0
+Golders Green,2,Wednesday,1,closed,0.0
+Golders Green,2,Wednesday,2,closed,0.0
+Golders Green,2,Wednesday,3,closed,0.0
+Golders Green,2,Wednesday,4,closed,0.0
+Golders Green,2,Wednesday,5,closed,0.0
+Golders Green,2,Wednesday,6,closed,0.0
+Golders Green,2,Wednesday,7,closed,0.0
+Golders Green,2,Wednesday,8,SSO,5.789473684210527
+Golders Green,2,Wednesday,9,SSO,12.379310344827585
+Golders Green,2,Wednesday,10,SSO,19.575757575757574
+Golders Green,2,Wednesday,11,SSO,19.806451612903224
+Golders Green,2,Wednesday,12,SSO,18.4375
+Golders Green,2,Wednesday,13,SSO,15.290322580645164
+Golders Green,2,Wednesday,14,SSO,19.61290322580645
+Golders Green,2,Wednesday,15,SSO,21.903225806451612
+Golders Green,2,Wednesday,16,SSO,26.060606060606066
+Golders Green,2,Wednesday,17,SSO,19.516129032258068
+Golders Green,2,Wednesday,18,SSO,15.266666666666667
+Golders Green,2,Wednesday,19,SSO,14.806451612903226
+Golders Green,2,Wednesday,20,closed,0.0
+Golders Green,2,Wednesday,21,closed,0.0
+Golders Green,2,Wednesday,22,closed,0.0
+Golders Green,2,Wednesday,23,closed,0.0
+Golders Green,3,Thursday,0,closed,0.0
+Golders Green,3,Thursday,1,closed,0.0
+Golders Green,3,Thursday,2,closed,0.0
+Golders Green,3,Thursday,3,closed,0.0
+Golders Green,3,Thursday,4,closed,0.0
+Golders Green,3,Thursday,5,closed,0.0
+Golders Green,3,Thursday,6,closed,0.0
+Golders Green,3,Thursday,7,closed,0.0
+Golders Green,3,Thursday,8,SSO,6.0
+Golders Green,3,Thursday,9,SSO,20.75
+Golders Green,3,Thursday,10,SSO,18.818181818181817
+Golders Green,3,Thursday,11,SSO,17.264705882352942
+Golders Green,3,Thursday,12,SSO,20.90625
+Golders Green,3,Thursday,13,SSO,15.06060606060606
+Golders Green,3,Thursday,14,staffed,52.058823529411775
+Golders Green,3,Thursday,15,staffed,59.558823529411775
+Golders Green,3,Thursday,16,staffed,68.44117647058823
+Golders Green,3,Thursday,17,staffed,62.67647058823529
+Golders Green,3,Thursday,18,staffed,58.735294117647065
+Golders Green,3,Thursday,19,staffed,47.911764705882355
+Golders Green,3,Thursday,20,closed,0.0
+Golders Green,3,Thursday,21,closed,0.0
+Golders Green,3,Thursday,22,closed,0.0
+Golders Green,3,Thursday,23,closed,0.0
+Golders Green,4,Friday,0,closed,0.0
+Golders Green,4,Friday,1,closed,0.0
+Golders Green,4,Friday,2,closed,0.0
+Golders Green,4,Friday,3,closed,0.0
+Golders Green,4,Friday,4,closed,0.0
+Golders Green,4,Friday,5,closed,0.0
+Golders Green,4,Friday,6,closed,0.0
+Golders Green,4,Friday,7,closed,0.0
+Golders Green,4,Friday,8,SSO,9.772727272727273
+Golders Green,4,Friday,9,staffed,34.15151515151515
+Golders Green,4,Friday,10,staffed,51.93939393939394
+Golders Green,4,Friday,11,staffed,54.78787878787879
+Golders Green,4,Friday,12,SSO,47.32352941176471
+Golders Green,4,Friday,13,SSO,50.59375
+Golders Green,4,Friday,14,SSO,59.93939393939394
+Golders Green,4,Friday,15,SSO,57.558823529411775
+Golders Green,4,Friday,16,SSO,103.0
+Golders Green,4,Friday,17,SSO,35.84848484848485
+Golders Green,4,Friday,18,SSO,13.038461538461537
+Golders Green,4,Friday,19,SSO,10.526315789473683
+Golders Green,4,Friday,20,closed,0.0
+Golders Green,4,Friday,21,closed,0.0
+Golders Green,4,Friday,22,closed,0.0
+Golders Green,4,Friday,23,closed,0.0
+Golders Green,5,Saturday,0,closed,0.0
+Golders Green,5,Saturday,1,closed,0.0
+Golders Green,5,Saturday,2,closed,0.0
+Golders Green,5,Saturday,3,closed,0.0
+Golders Green,5,Saturday,4,closed,0.0
+Golders Green,5,Saturday,5,closed,0.0
+Golders Green,5,Saturday,6,closed,0.0
+Golders Green,5,Saturday,7,closed,0.0
+Golders Green,5,Saturday,8,closed,0.0
+Golders Green,5,Saturday,9,closed,0.0
+Golders Green,5,Saturday,10,closed,0.0
+Golders Green,5,Saturday,11,SSO,13.034482758620689
+Golders Green,5,Saturday,12,SSO,9.4
+Golders Green,5,Saturday,13,SSO,13.5
+Golders Green,5,Saturday,14,SSO,8.357142857142858
+Golders Green,5,Saturday,15,SSO,10.225806451612904
+Golders Green,5,Saturday,16,SSO,12.0
+Golders Green,5,Saturday,17,closed,0.0
+Golders Green,5,Saturday,18,closed,0.0
+Golders Green,5,Saturday,19,closed,0.0
+Golders Green,5,Saturday,20,closed,0.0
+Golders Green,5,Saturday,21,closed,0.0
+Golders Green,5,Saturday,22,closed,0.0
+Golders Green,5,Saturday,23,closed,0.0
+Golders Green,6,Sunday,0,closed,0.0
+Golders Green,6,Sunday,1,closed,0.0
+Golders Green,6,Sunday,2,closed,0.0
+Golders Green,6,Sunday,3,closed,0.0
+Golders Green,6,Sunday,4,closed,0.0
+Golders Green,6,Sunday,5,closed,0.0
+Golders Green,6,Sunday,6,closed,0.0
+Golders Green,6,Sunday,7,closed,0.0
+Golders Green,6,Sunday,8,closed,0.0
+Golders Green,6,Sunday,9,closed,0.0
+Golders Green,6,Sunday,10,closed,0.0
+Golders Green,6,Sunday,11,closed,0.0
+Golders Green,6,Sunday,12,closed,0.0
+Golders Green,6,Sunday,13,closed,0.0
+Golders Green,6,Sunday,14,staffed,123.84848484848484
+Golders Green,6,Sunday,15,staffed,155.52941176470586
+Golders Green,6,Sunday,16,staffed,148.8181818181818
+Golders Green,6,Sunday,17,closed,0.0
+Golders Green,6,Sunday,18,closed,0.0
+Golders Green,6,Sunday,19,closed,0.0
+Golders Green,6,Sunday,20,closed,0.0
+Golders Green,6,Sunday,21,closed,0.0
+Golders Green,6,Sunday,22,closed,0.0
+Golders Green,6,Sunday,23,closed,0.0
+Hendon,0,Monday,0,closed,0.0
+Hendon,0,Monday,1,closed,0.0
+Hendon,0,Monday,2,closed,0.0
+Hendon,0,Monday,3,closed,0.0
+Hendon,0,Monday,4,closed,0.0
+Hendon,0,Monday,5,closed,0.0
+Hendon,0,Monday,6,closed,0.0
+Hendon,0,Monday,7,closed,0.0
+Hendon,0,Monday,8,SSO,14.12
+Hendon,0,Monday,9,SSO,29.09375
+Hendon,0,Monday,10,SSO,20.733333333333334
+Hendon,0,Monday,11,SSO,26.41935483870968
+Hendon,0,Monday,12,SSO,27.12121212121212
+Hendon,0,Monday,13,SSO,20.90625
+Hendon,0,Monday,14,SSO,18.310344827586206
+Hendon,0,Monday,15,SSO,29.75757575757576
+Hendon,0,Monday,16,SSO,36.96666666666667
+Hendon,0,Monday,17,SSO,20.241379310344826
+Hendon,0,Monday,18,SSO,15.25
+Hendon,0,Monday,19,SSO,17.0
+Hendon,0,Monday,20,closed,0.0
+Hendon,0,Monday,21,closed,0.0
+Hendon,0,Monday,22,closed,0.0
+Hendon,0,Monday,23,closed,0.0
+Hendon,1,Tuesday,0,closed,0.0
+Hendon,1,Tuesday,1,closed,0.0
+Hendon,1,Tuesday,2,closed,0.0
+Hendon,1,Tuesday,3,closed,0.0
+Hendon,1,Tuesday,4,closed,0.0
+Hendon,1,Tuesday,5,closed,0.0
+Hendon,1,Tuesday,6,closed,0.0
+Hendon,1,Tuesday,7,closed,0.0
+Hendon,1,Tuesday,8,SSO,8.846153846153848
+Hendon,1,Tuesday,9,staffed,31.303030303030305
+Hendon,1,Tuesday,10,staffed,21.38235294117647
+Hendon,1,Tuesday,11,staffed,35.72727272727273
+Hendon,1,Tuesday,12,SSO,28.14705882352941
+Hendon,1,Tuesday,13,SSO,12.93939393939394
+Hendon,1,Tuesday,14,SSO,22.57575757575757
+Hendon,1,Tuesday,15,SSO,21.12121212121212
+Hendon,1,Tuesday,16,SSO,23.64705882352941
+Hendon,1,Tuesday,17,SSO,18.03030303030303
+Hendon,1,Tuesday,18,SSO,22.09375
+Hendon,1,Tuesday,19,SSO,9.307692307692307
+Hendon,1,Tuesday,20,closed,0.0
+Hendon,1,Tuesday,21,closed,0.0
+Hendon,1,Tuesday,22,closed,0.0
+Hendon,1,Tuesday,23,closed,0.0
+Hendon,2,Wednesday,0,closed,0.0
+Hendon,2,Wednesday,1,closed,0.0
+Hendon,2,Wednesday,2,closed,0.0
+Hendon,2,Wednesday,3,closed,0.0
+Hendon,2,Wednesday,4,closed,0.0
+Hendon,2,Wednesday,5,closed,0.0
+Hendon,2,Wednesday,6,closed,0.0
+Hendon,2,Wednesday,7,closed,0.0
+Hendon,2,Wednesday,8,SSO,12.178571428571427
+Hendon,2,Wednesday,9,SSO,23.6875
+Hendon,2,Wednesday,10,SSO,26.5625
+Hendon,2,Wednesday,11,SSO,26.235294117647058
+Hendon,2,Wednesday,12,SSO,28.64705882352941
+Hendon,2,Wednesday,13,SSO,22.90625
+Hendon,2,Wednesday,14,staffed,32.63636363636363
+Hendon,2,Wednesday,15,staffed,49.558823529411775
+Hendon,2,Wednesday,16,staffed,60.852941176470594
+Hendon,2,Wednesday,17,staffed,63.88235294117647
+Hendon,2,Wednesday,18,staffed,53.30303030303031
+Hendon,2,Wednesday,19,staffed,35.27272727272727
+Hendon,2,Wednesday,20,closed,0.0
+Hendon,2,Wednesday,21,closed,0.0
+Hendon,2,Wednesday,22,closed,0.0
+Hendon,2,Wednesday,23,closed,0.0
+Hendon,3,Thursday,0,closed,0.0
+Hendon,3,Thursday,1,closed,0.0
+Hendon,3,Thursday,2,closed,0.0
+Hendon,3,Thursday,3,closed,0.0
+Hendon,3,Thursday,4,closed,0.0
+Hendon,3,Thursday,5,closed,0.0
+Hendon,3,Thursday,6,closed,0.0
+Hendon,3,Thursday,7,closed,0.0
+Hendon,3,Thursday,8,SSO,8.75
+Hendon,3,Thursday,9,SSO,16.71875
+Hendon,3,Thursday,10,SSO,21.303030303030305
+Hendon,3,Thursday,11,SSO,19.4375
+Hendon,3,Thursday,12,SSO,18.235294117647054
+Hendon,3,Thursday,13,SSO,17.848484848484848
+Hendon,3,Thursday,14,SSO,20.44117647058824
+Hendon,3,Thursday,15,SSO,25.09375
+Hendon,3,Thursday,16,SSO,23.970588235294123
+Hendon,3,Thursday,17,SSO,19.8125
+Hendon,3,Thursday,18,SSO,16.566666666666666
+Hendon,3,Thursday,19,SSO,15.933333333333335
+Hendon,3,Thursday,20,closed,0.0
+Hendon,3,Thursday,21,closed,0.0
+Hendon,3,Thursday,22,closed,0.0
+Hendon,3,Thursday,23,closed,0.0
+Hendon,4,Friday,0,closed,0.0
+Hendon,4,Friday,1,closed,0.0
+Hendon,4,Friday,2,closed,0.0
+Hendon,4,Friday,3,closed,0.0
+Hendon,4,Friday,4,closed,0.0
+Hendon,4,Friday,5,closed,0.0
+Hendon,4,Friday,6,closed,0.0
+Hendon,4,Friday,7,closed,0.0
+Hendon,4,Friday,8,SSO,12.296296296296294
+Hendon,4,Friday,9,SSO,23.857142857142854
+Hendon,4,Friday,10,SSO,18.06451612903226
+Hendon,4,Friday,11,SSO,20.6875
+Hendon,4,Friday,12,SSO,21.085714285714285
+Hendon,4,Friday,13,SSO,27.15151515151515
+Hendon,4,Friday,14,staffed,63.941176470588225
+Hendon,4,Friday,15,staffed,70.70588235294117
+Hendon,4,Friday,16,staffed,82.1470588235294
+Hendon,4,Friday,17,SSO,44.88235294117647
+Hendon,4,Friday,18,SSO,23.724137931034484
+Hendon,4,Friday,19,SSO,8.173913043478262
+Hendon,4,Friday,20,closed,0.0
+Hendon,4,Friday,21,closed,0.0
+Hendon,4,Friday,22,closed,0.0
+Hendon,4,Friday,23,closed,0.0
+Hendon,5,Saturday,0,closed,0.0
+Hendon,5,Saturday,1,closed,0.0
+Hendon,5,Saturday,2,closed,0.0
+Hendon,5,Saturday,3,closed,0.0
+Hendon,5,Saturday,4,closed,0.0
+Hendon,5,Saturday,5,closed,0.0
+Hendon,5,Saturday,6,closed,0.0
+Hendon,5,Saturday,7,closed,0.0
+Hendon,5,Saturday,8,SSO,4.466666666666667
+Hendon,5,Saturday,9,staffed,28.617647058823533
+Hendon,5,Saturday,10,staffed,44.05714285714286
+Hendon,5,Saturday,11,staffed,48.8
+Hendon,5,Saturday,12,SSO,46.771428571428565
+Hendon,5,Saturday,13,SSO,25.970588235294123
+Hendon,5,Saturday,14,SSO,25.34285714285714
+Hendon,5,Saturday,15,SSO,28.483870967741932
+Hendon,5,Saturday,16,SSO,25.294117647058826
+Hendon,5,Saturday,17,closed,0.0
+Hendon,5,Saturday,18,closed,0.0
+Hendon,5,Saturday,19,closed,0.0
+Hendon,5,Saturday,20,closed,0.0
+Hendon,5,Saturday,21,closed,0.0
+Hendon,5,Saturday,22,closed,0.0
+Hendon,5,Saturday,23,closed,0.0
+Hendon,6,Sunday,0,closed,0.0
+Hendon,6,Sunday,1,closed,0.0
+Hendon,6,Sunday,2,closed,0.0
+Hendon,6,Sunday,3,closed,0.0
+Hendon,6,Sunday,4,closed,0.0
+Hendon,6,Sunday,5,closed,0.0
+Hendon,6,Sunday,6,closed,0.0
+Hendon,6,Sunday,7,closed,0.0
+Hendon,6,Sunday,8,closed,0.0
+Hendon,6,Sunday,9,closed,0.0
+Hendon,6,Sunday,10,closed,0.0
+Hendon,6,Sunday,11,closed,0.0
+Hendon,6,Sunday,12,closed,0.0
+Hendon,6,Sunday,13,closed,0.0
+Hendon,6,Sunday,14,closed,0.0
+Hendon,6,Sunday,15,closed,0.0
+Hendon,6,Sunday,16,closed,0.0
+Hendon,6,Sunday,17,closed,0.0
+Hendon,6,Sunday,18,closed,0.0
+Hendon,6,Sunday,19,closed,0.0
+Hendon,6,Sunday,20,closed,0.0
+Hendon,6,Sunday,21,closed,0.0
+Hendon,6,Sunday,22,closed,0.0
+Hendon,6,Sunday,23,closed,0.0
+Mill Hill,0,Monday,0,closed,0.0
+Mill Hill,0,Monday,1,closed,0.0
+Mill Hill,0,Monday,2,closed,0.0
+Mill Hill,0,Monday,3,closed,0.0
+Mill Hill,0,Monday,4,closed,0.0
+Mill Hill,0,Monday,5,closed,0.0
+Mill Hill,0,Monday,6,closed,0.0
+Mill Hill,0,Monday,7,closed,0.0
+Mill Hill,0,Monday,8,closed,0.0
+Mill Hill,0,Monday,9,closed,0.0
+Mill Hill,0,Monday,10,closed,0.0
+Mill Hill,0,Monday,11,closed,0.0
+Mill Hill,0,Monday,12,closed,0.0
+Mill Hill,0,Monday,13,closed,0.0
+Mill Hill,0,Monday,14,closed,0.0
+Mill Hill,0,Monday,15,closed,0.0
+Mill Hill,0,Monday,16,closed,0.0
+Mill Hill,0,Monday,17,closed,0.0
+Mill Hill,0,Monday,18,closed,0.0
+Mill Hill,0,Monday,19,closed,0.0
+Mill Hill,0,Monday,20,closed,0.0
+Mill Hill,0,Monday,21,closed,0.0
+Mill Hill,0,Monday,22,closed,0.0
+Mill Hill,0,Monday,23,closed,0.0
+Mill Hill,1,Tuesday,0,closed,0.0
+Mill Hill,1,Tuesday,1,closed,0.0
+Mill Hill,1,Tuesday,2,closed,0.0
+Mill Hill,1,Tuesday,3,closed,0.0
+Mill Hill,1,Tuesday,4,closed,0.0
+Mill Hill,1,Tuesday,5,closed,0.0
+Mill Hill,1,Tuesday,6,closed,0.0
+Mill Hill,1,Tuesday,7,closed,0.0
+Mill Hill,1,Tuesday,8,closed,0.0
+Mill Hill,1,Tuesday,9,closed,0.0
+Mill Hill,1,Tuesday,10,closed,0.0
+Mill Hill,1,Tuesday,11,closed,0.0
+Mill Hill,1,Tuesday,12,closed,0.0
+Mill Hill,1,Tuesday,13,closed,0.0
+Mill Hill,1,Tuesday,14,staffed,58.470588235294116
+Mill Hill,1,Tuesday,15,staffed,49.29411764705882
+Mill Hill,1,Tuesday,16,staffed,47.70588235294117
+Mill Hill,1,Tuesday,17,staffed,32.14705882352941
+Mill Hill,1,Tuesday,18,staffed,27.5
+Mill Hill,1,Tuesday,19,closed,0.0
+Mill Hill,1,Tuesday,20,closed,0.0
+Mill Hill,1,Tuesday,21,closed,0.0
+Mill Hill,1,Tuesday,22,closed,0.0
+Mill Hill,1,Tuesday,23,closed,0.0
+Mill Hill,2,Wednesday,0,closed,0.0
+Mill Hill,2,Wednesday,1,closed,0.0
+Mill Hill,2,Wednesday,2,closed,0.0
+Mill Hill,2,Wednesday,3,closed,0.0
+Mill Hill,2,Wednesday,4,closed,0.0
+Mill Hill,2,Wednesday,5,closed,0.0
+Mill Hill,2,Wednesday,6,closed,0.0
+Mill Hill,2,Wednesday,7,closed,0.0
+Mill Hill,2,Wednesday,8,closed,0.0
+Mill Hill,2,Wednesday,9,closed,0.0
+Mill Hill,2,Wednesday,10,staffed,42.411764705882355
+Mill Hill,2,Wednesday,11,staffed,41.8235294117647
+Mill Hill,2,Wednesday,12,staffed,27.424242424242426
+Mill Hill,2,Wednesday,13,closed,0.0
+Mill Hill,2,Wednesday,14,closed,0.0
+Mill Hill,2,Wednesday,15,closed,0.0
+Mill Hill,2,Wednesday,16,closed,0.0
+Mill Hill,2,Wednesday,17,closed,0.0
+Mill Hill,2,Wednesday,18,closed,0.0
+Mill Hill,2,Wednesday,19,closed,0.0
+Mill Hill,2,Wednesday,20,closed,0.0
+Mill Hill,2,Wednesday,21,closed,0.0
+Mill Hill,2,Wednesday,22,closed,0.0
+Mill Hill,2,Wednesday,23,closed,0.0
+Mill Hill,3,Thursday,0,closed,0.0
+Mill Hill,3,Thursday,1,closed,0.0
+Mill Hill,3,Thursday,2,closed,0.0
+Mill Hill,3,Thursday,3,closed,0.0
+Mill Hill,3,Thursday,4,closed,0.0
+Mill Hill,3,Thursday,5,closed,0.0
+Mill Hill,3,Thursday,6,closed,0.0
+Mill Hill,3,Thursday,7,closed,0.0
+Mill Hill,3,Thursday,8,closed,0.0
+Mill Hill,3,Thursday,9,closed,0.0
+Mill Hill,3,Thursday,10,staffed,32.117647058823536
+Mill Hill,3,Thursday,11,staffed,30.558823529411764
+Mill Hill,3,Thursday,12,staffed,27.470588235294123
+Mill Hill,3,Thursday,13,closed,0.0
+Mill Hill,3,Thursday,14,closed,0.0
+Mill Hill,3,Thursday,15,closed,0.0
+Mill Hill,3,Thursday,16,closed,0.0
+Mill Hill,3,Thursday,17,closed,0.0
+Mill Hill,3,Thursday,18,closed,0.0
+Mill Hill,3,Thursday,19,closed,0.0
+Mill Hill,3,Thursday,20,closed,0.0
+Mill Hill,3,Thursday,21,closed,0.0
+Mill Hill,3,Thursday,22,closed,0.0
+Mill Hill,3,Thursday,23,closed,0.0
+Mill Hill,4,Friday,0,closed,0.0
+Mill Hill,4,Friday,1,closed,0.0
+Mill Hill,4,Friday,2,closed,0.0
+Mill Hill,4,Friday,3,closed,0.0
+Mill Hill,4,Friday,4,closed,0.0
+Mill Hill,4,Friday,5,closed,0.0
+Mill Hill,4,Friday,6,closed,0.0
+Mill Hill,4,Friday,7,closed,0.0
+Mill Hill,4,Friday,8,closed,0.0
+Mill Hill,4,Friday,9,closed,0.0
+Mill Hill,4,Friday,10,closed,0.0
+Mill Hill,4,Friday,11,closed,0.0
+Mill Hill,4,Friday,12,closed,0.0
+Mill Hill,4,Friday,13,closed,0.0
+Mill Hill,4,Friday,14,closed,0.0
+Mill Hill,4,Friday,15,closed,0.0
+Mill Hill,4,Friday,16,closed,0.0
+Mill Hill,4,Friday,17,closed,0.0
+Mill Hill,4,Friday,18,closed,0.0
+Mill Hill,4,Friday,19,closed,0.0
+Mill Hill,4,Friday,20,closed,0.0
+Mill Hill,4,Friday,21,closed,0.0
+Mill Hill,4,Friday,22,closed,0.0
+Mill Hill,4,Friday,23,closed,0.0
+Mill Hill,5,Saturday,0,closed,0.0
+Mill Hill,5,Saturday,1,closed,0.0
+Mill Hill,5,Saturday,2,closed,0.0
+Mill Hill,5,Saturday,3,closed,0.0
+Mill Hill,5,Saturday,4,closed,0.0
+Mill Hill,5,Saturday,5,closed,0.0
+Mill Hill,5,Saturday,6,closed,0.0
+Mill Hill,5,Saturday,7,closed,0.0
+Mill Hill,5,Saturday,8,closed,0.0
+Mill Hill,5,Saturday,9,closed,0.0
+Mill Hill,5,Saturday,10,staffed,60.029411764705884
+Mill Hill,5,Saturday,11,staffed,74.8
+Mill Hill,5,Saturday,12,staffed,86.7142857142857
+Mill Hill,5,Saturday,13,closed,0.0
+Mill Hill,5,Saturday,14,closed,0.0
+Mill Hill,5,Saturday,15,closed,0.0
+Mill Hill,5,Saturday,16,closed,0.0
+Mill Hill,5,Saturday,17,closed,0.0
+Mill Hill,5,Saturday,18,closed,0.0
+Mill Hill,5,Saturday,19,closed,0.0
+Mill Hill,5,Saturday,20,closed,0.0
+Mill Hill,5,Saturday,21,closed,0.0
+Mill Hill,5,Saturday,22,closed,0.0
+Mill Hill,5,Saturday,23,closed,0.0
+Mill Hill,6,Sunday,0,closed,0.0
+Mill Hill,6,Sunday,1,closed,0.0
+Mill Hill,6,Sunday,2,closed,0.0
+Mill Hill,6,Sunday,3,closed,0.0
+Mill Hill,6,Sunday,4,closed,0.0
+Mill Hill,6,Sunday,5,closed,0.0
+Mill Hill,6,Sunday,6,closed,0.0
+Mill Hill,6,Sunday,7,closed,0.0
+Mill Hill,6,Sunday,8,closed,0.0
+Mill Hill,6,Sunday,9,closed,0.0
+Mill Hill,6,Sunday,10,closed,0.0
+Mill Hill,6,Sunday,11,closed,0.0
+Mill Hill,6,Sunday,12,closed,0.0
+Mill Hill,6,Sunday,13,closed,0.0
+Mill Hill,6,Sunday,14,closed,0.0
+Mill Hill,6,Sunday,15,closed,0.0
+Mill Hill,6,Sunday,16,closed,0.0
+Mill Hill,6,Sunday,17,closed,0.0
+Mill Hill,6,Sunday,18,closed,0.0
+Mill Hill,6,Sunday,19,closed,0.0
+Mill Hill,6,Sunday,20,closed,0.0
+Mill Hill,6,Sunday,21,closed,0.0
+Mill Hill,6,Sunday,22,closed,0.0
+Mill Hill,6,Sunday,23,closed,0.0
+North Finchley,0,Monday,0,closed,0.0
+North Finchley,0,Monday,1,closed,0.0
+North Finchley,0,Monday,2,closed,0.0
+North Finchley,0,Monday,3,closed,0.0
+North Finchley,0,Monday,4,closed,0.0
+North Finchley,0,Monday,5,closed,0.0
+North Finchley,0,Monday,6,closed,0.0
+North Finchley,0,Monday,7,closed,0.0
+North Finchley,0,Monday,8,SSO,8.037037037037036
+North Finchley,0,Monday,9,SSO,31.677419354838708
+North Finchley,0,Monday,10,SSO,31.612903225806452
+North Finchley,0,Monday,11,SSO,33.09375
+North Finchley,0,Monday,12,SSO,32.36666666666667
+North Finchley,0,Monday,13,SSO,29.70967741935484
+North Finchley,0,Monday,14,SSO,27.375
+North Finchley,0,Monday,15,SSO,40.645161290322584
+North Finchley,0,Monday,16,SSO,37.03125
+North Finchley,0,Monday,17,SSO,17.785714285714285
+North Finchley,0,Monday,18,SSO,11.689655172413795
+North Finchley,0,Monday,19,SSO,8.11111111111111
+North Finchley,0,Monday,20,closed,0.0
+North Finchley,0,Monday,21,closed,0.0
+North Finchley,0,Monday,22,closed,0.0
+North Finchley,0,Monday,23,closed,0.0
+North Finchley,1,Tuesday,0,closed,0.0
+North Finchley,1,Tuesday,1,closed,0.0
+North Finchley,1,Tuesday,2,closed,0.0
+North Finchley,1,Tuesday,3,closed,0.0
+North Finchley,1,Tuesday,4,closed,0.0
+North Finchley,1,Tuesday,5,closed,0.0
+North Finchley,1,Tuesday,6,closed,0.0
+North Finchley,1,Tuesday,7,closed,0.0
+North Finchley,1,Tuesday,8,SSO,6.782608695652174
+North Finchley,1,Tuesday,9,SSO,26.823529411764714
+North Finchley,1,Tuesday,10,SSO,35.39393939393939
+North Finchley,1,Tuesday,11,SSO,36.93939393939394
+North Finchley,1,Tuesday,12,SSO,28.63636363636364
+North Finchley,1,Tuesday,13,SSO,32.24242424242424
+North Finchley,1,Tuesday,14,staffed,75.60606060606061
+North Finchley,1,Tuesday,15,staffed,59.352941176470594
+North Finchley,1,Tuesday,16,staffed,61.96969696969697
+North Finchley,1,Tuesday,17,staffed,39.088235294117645
+North Finchley,1,Tuesday,18,staffed,39.20588235294117
+North Finchley,1,Tuesday,19,staffed,24.181818181818183
+North Finchley,1,Tuesday,20,closed,0.0
+North Finchley,1,Tuesday,21,closed,0.0
+North Finchley,1,Tuesday,22,closed,0.0
+North Finchley,1,Tuesday,23,closed,0.0
+North Finchley,2,Wednesday,0,closed,0.0
+North Finchley,2,Wednesday,1,closed,0.0
+North Finchley,2,Wednesday,2,closed,0.0
+North Finchley,2,Wednesday,3,closed,0.0
+North Finchley,2,Wednesday,4,closed,0.0
+North Finchley,2,Wednesday,5,closed,0.0
+North Finchley,2,Wednesday,6,closed,0.0
+North Finchley,2,Wednesday,7,closed,0.0
+North Finchley,2,Wednesday,8,SSO,7.391304347826088
+North Finchley,2,Wednesday,9,SSO,22.176470588235293
+North Finchley,2,Wednesday,10,SSO,27.393939393939394
+North Finchley,2,Wednesday,11,SSO,25.735294117647058
+North Finchley,2,Wednesday,12,SSO,25.882352941176467
+North Finchley,2,Wednesday,13,SSO,25.258064516129032
+North Finchley,2,Wednesday,14,SSO,24.558823529411764
+North Finchley,2,Wednesday,15,SSO,22.303030303030305
+North Finchley,2,Wednesday,16,SSO,32.823529411764696
+North Finchley,2,Wednesday,17,SSO,16.161290322580644
+North Finchley,2,Wednesday,18,SSO,10.958333333333336
+North Finchley,2,Wednesday,19,SSO,6.85
+North Finchley,2,Wednesday,20,closed,0.0
+North Finchley,2,Wednesday,21,closed,0.0
+North Finchley,2,Wednesday,22,closed,0.0
+North Finchley,2,Wednesday,23,closed,0.0
+North Finchley,3,Thursday,0,closed,0.0
+North Finchley,3,Thursday,1,closed,0.0
+North Finchley,3,Thursday,2,closed,0.0
+North Finchley,3,Thursday,3,closed,0.0
+North Finchley,3,Thursday,4,closed,0.0
+North Finchley,3,Thursday,5,closed,0.0
+North Finchley,3,Thursday,6,closed,0.0
+North Finchley,3,Thursday,7,closed,0.0
+North Finchley,3,Thursday,8,SSO,12.533333333333333
+North Finchley,3,Thursday,9,staffed,51.970588235294116
+North Finchley,3,Thursday,10,staffed,57.88235294117647
+North Finchley,3,Thursday,11,staffed,58.70588235294117
+North Finchley,3,Thursday,12,SSO,42.29411764705883
+North Finchley,3,Thursday,13,SSO,23.1875
+North Finchley,3,Thursday,14,SSO,27.176470588235286
+North Finchley,3,Thursday,15,SSO,27.21212121212121
+North Finchley,3,Thursday,16,SSO,23.12121212121212
+North Finchley,3,Thursday,17,SSO,16.911764705882348
+North Finchley,3,Thursday,18,SSO,11.533333333333333
+North Finchley,3,Thursday,19,SSO,7.6
+North Finchley,3,Thursday,20,closed,0.0
+North Finchley,3,Thursday,21,closed,0.0
+North Finchley,3,Thursday,22,closed,0.0
+North Finchley,3,Thursday,23,closed,0.0
+North Finchley,4,Friday,0,closed,0.0
+North Finchley,4,Friday,1,closed,0.0
+North Finchley,4,Friday,2,closed,0.0
+North Finchley,4,Friday,3,closed,0.0
+North Finchley,4,Friday,4,closed,0.0
+North Finchley,4,Friday,5,closed,0.0
+North Finchley,4,Friday,6,closed,0.0
+North Finchley,4,Friday,7,closed,0.0
+North Finchley,4,Friday,8,SSO,8.26086956521739
+North Finchley,4,Friday,9,SSO,23.363636363636363
+North Finchley,4,Friday,10,SSO,24.34285714285714
+North Finchley,4,Friday,11,SSO,40.058823529411775
+North Finchley,4,Friday,12,SSO,29.323529411764714
+North Finchley,4,Friday,13,SSO,26.735294117647058
+North Finchley,4,Friday,14,staffed,69.37142857142857
+North Finchley,4,Friday,15,staffed,56.65714285714286
+North Finchley,4,Friday,16,staffed,57.411764705882355
+North Finchley,4,Friday,17,SSO,25.823529411764714
+North Finchley,4,Friday,18,SSO,11.35483870967742
+North Finchley,4,Friday,19,SSO,6.545454545454546
+North Finchley,4,Friday,20,closed,0.0
+North Finchley,4,Friday,21,closed,0.0
+North Finchley,4,Friday,22,closed,0.0
+North Finchley,4,Friday,23,closed,0.0
+North Finchley,5,Saturday,0,closed,0.0
+North Finchley,5,Saturday,1,closed,0.0
+North Finchley,5,Saturday,2,closed,0.0
+North Finchley,5,Saturday,3,closed,0.0
+North Finchley,5,Saturday,4,closed,0.0
+North Finchley,5,Saturday,5,closed,0.0
+North Finchley,5,Saturday,6,closed,0.0
+North Finchley,5,Saturday,7,closed,0.0
+North Finchley,5,Saturday,8,SSO,6.866666666666666
+North Finchley,5,Saturday,9,SSO,28.742857142857147
+North Finchley,5,Saturday,10,SSO,56.57142857142857
+North Finchley,5,Saturday,11,SSO,58.05714285714286
+North Finchley,5,Saturday,12,SSO,50.914285714285704
+North Finchley,5,Saturday,13,SSO,39.857142857142854
+North Finchley,5,Saturday,14,staffed,74.4
+North Finchley,5,Saturday,15,staffed,84.8
+North Finchley,5,Saturday,16,staffed,73.2
+North Finchley,5,Saturday,17,closed,0.0
+North Finchley,5,Saturday,18,closed,0.0
+North Finchley,5,Saturday,19,closed,0.0
+North Finchley,5,Saturday,20,closed,0.0
+North Finchley,5,Saturday,21,closed,0.0
+North Finchley,5,Saturday,22,closed,0.0
+North Finchley,5,Saturday,23,closed,0.0
+North Finchley,6,Sunday,0,closed,0.0
+North Finchley,6,Sunday,1,closed,0.0
+North Finchley,6,Sunday,2,closed,0.0
+North Finchley,6,Sunday,3,closed,0.0
+North Finchley,6,Sunday,4,closed,0.0
+North Finchley,6,Sunday,5,closed,0.0
+North Finchley,6,Sunday,6,closed,0.0
+North Finchley,6,Sunday,7,closed,0.0
+North Finchley,6,Sunday,8,closed,0.0
+North Finchley,6,Sunday,9,closed,0.0
+North Finchley,6,Sunday,10,closed,0.0
+North Finchley,6,Sunday,11,closed,0.0
+North Finchley,6,Sunday,12,closed,0.0
+North Finchley,6,Sunday,13,closed,0.0
+North Finchley,6,Sunday,14,closed,0.0
+North Finchley,6,Sunday,15,closed,0.0
+North Finchley,6,Sunday,16,closed,0.0
+North Finchley,6,Sunday,17,closed,0.0
+North Finchley,6,Sunday,18,closed,0.0
+North Finchley,6,Sunday,19,closed,0.0
+North Finchley,6,Sunday,20,closed,0.0
+North Finchley,6,Sunday,21,closed,0.0
+North Finchley,6,Sunday,22,closed,0.0
+North Finchley,6,Sunday,23,closed,0.0
+Osidge,0,Monday,0,closed,0.0
+Osidge,0,Monday,1,closed,0.0
+Osidge,0,Monday,2,closed,0.0
+Osidge,0,Monday,3,closed,0.0
+Osidge,0,Monday,4,closed,0.0
+Osidge,0,Monday,5,closed,0.0
+Osidge,0,Monday,6,closed,0.0
+Osidge,0,Monday,7,closed,0.0
+Osidge,0,Monday,8,SSO,12.461538461538463
+Osidge,0,Monday,9,SSO,18.379310344827584
+Osidge,0,Monday,10,SSO,15.129032258064516
+Osidge,0,Monday,11,SSO,21.366666666666667
+Osidge,0,Monday,12,SSO,19.28125
+Osidge,0,Monday,13,SSO,11.4
+Osidge,0,Monday,14,SSO,12.814814814814815
+Osidge,0,Monday,15,SSO,17.366666666666667
+Osidge,0,Monday,16,SSO,22.064516129032263
+Osidge,0,Monday,17,SSO,11.192307692307693
+Osidge,0,Monday,18,SSO,10.958333333333336
+Osidge,0,Monday,19,SSO,10.875
+Osidge,0,Monday,20,closed,0.0
+Osidge,0,Monday,21,closed,0.0
+Osidge,0,Monday,22,closed,0.0
+Osidge,0,Monday,23,closed,0.0
+Osidge,1,Tuesday,0,closed,0.0
+Osidge,1,Tuesday,1,closed,0.0
+Osidge,1,Tuesday,2,closed,0.0
+Osidge,1,Tuesday,3,closed,0.0
+Osidge,1,Tuesday,4,closed,0.0
+Osidge,1,Tuesday,5,closed,0.0
+Osidge,1,Tuesday,6,closed,0.0
+Osidge,1,Tuesday,7,closed,0.0
+Osidge,1,Tuesday,8,SSO,6.142857142857142
+Osidge,1,Tuesday,9,SSO,13.75
+Osidge,1,Tuesday,10,SSO,17.71875
+Osidge,1,Tuesday,11,SSO,32.76470588235294
+Osidge,1,Tuesday,12,SSO,24.794117647058826
+Osidge,1,Tuesday,13,SSO,15.705882352941178
+Osidge,1,Tuesday,14,staffed,59.96969696969697
+Osidge,1,Tuesday,15,staffed,51.470588235294116
+Osidge,1,Tuesday,16,staffed,40.333333333333336
+Osidge,1,Tuesday,17,staffed,41.36363636363637
+Osidge,1,Tuesday,18,staffed,48.6969696969697
+Osidge,1,Tuesday,19,staffed,21.90625
+Osidge,1,Tuesday,20,closed,0.0
+Osidge,1,Tuesday,21,closed,0.0
+Osidge,1,Tuesday,22,closed,0.0
+Osidge,1,Tuesday,23,closed,0.0
+Osidge,2,Wednesday,0,closed,0.0
+Osidge,2,Wednesday,1,closed,0.0
+Osidge,2,Wednesday,2,closed,0.0
+Osidge,2,Wednesday,3,closed,0.0
+Osidge,2,Wednesday,4,closed,0.0
+Osidge,2,Wednesday,5,closed,0.0
+Osidge,2,Wednesday,6,closed,0.0
+Osidge,2,Wednesday,7,closed,0.0
+Osidge,2,Wednesday,8,SSO,7.5555555555555545
+Osidge,2,Wednesday,9,staffed,21.46875
+Osidge,2,Wednesday,10,staffed,34.96969696969697
+Osidge,2,Wednesday,11,staffed,34.666666666666664
+Osidge,2,Wednesday,12,SSO,27.939393939393934
+Osidge,2,Wednesday,13,SSO,13.629629629629632
+Osidge,2,Wednesday,14,SSO,41.125
+Osidge,2,Wednesday,15,SSO,34.69696969696969
+Osidge,2,Wednesday,16,SSO,22.117647058823533
+Osidge,2,Wednesday,17,SSO,14.242424242424242
+Osidge,2,Wednesday,18,SSO,8.037037037037036
+Osidge,2,Wednesday,19,SSO,6.869565217391305
+Osidge,2,Wednesday,20,closed,0.0
+Osidge,2,Wednesday,21,closed,0.0
+Osidge,2,Wednesday,22,closed,0.0
+Osidge,2,Wednesday,23,closed,0.0
+Osidge,3,Thursday,0,closed,0.0
+Osidge,3,Thursday,1,closed,0.0
+Osidge,3,Thursday,2,closed,0.0
+Osidge,3,Thursday,3,closed,0.0
+Osidge,3,Thursday,4,closed,0.0
+Osidge,3,Thursday,5,closed,0.0
+Osidge,3,Thursday,6,closed,0.0
+Osidge,3,Thursday,7,closed,0.0
+Osidge,3,Thursday,8,SSO,8.517241379310345
+Osidge,3,Thursday,9,SSO,9.933333333333334
+Osidge,3,Thursday,10,SSO,25.882352941176467
+Osidge,3,Thursday,11,SSO,22.46875
+Osidge,3,Thursday,12,SSO,20.323529411764707
+Osidge,3,Thursday,13,SSO,27.838709677419356
+Osidge,3,Thursday,14,staffed,47.852941176470594
+Osidge,3,Thursday,15,staffed,74.20588235294117
+Osidge,3,Thursday,16,staffed,38.76470588235294
+Osidge,3,Thursday,17,SSO,26.266666666666666
+Osidge,3,Thursday,18,SSO,28.967741935483872
+Osidge,3,Thursday,19,SSO,20.7
+Osidge,3,Thursday,20,closed,0.0
+Osidge,3,Thursday,21,closed,0.0
+Osidge,3,Thursday,22,closed,0.0
+Osidge,3,Thursday,23,closed,0.0
+Osidge,4,Friday,0,closed,0.0
+Osidge,4,Friday,1,closed,0.0
+Osidge,4,Friday,2,closed,0.0
+Osidge,4,Friday,3,closed,0.0
+Osidge,4,Friday,4,closed,0.0
+Osidge,4,Friday,5,closed,0.0
+Osidge,4,Friday,6,closed,0.0
+Osidge,4,Friday,7,closed,0.0
+Osidge,4,Friday,8,SSO,7.75
+Osidge,4,Friday,9,SSO,12.46875
+Osidge,4,Friday,10,SSO,16.914285714285715
+Osidge,4,Friday,11,SSO,17.088235294117652
+Osidge,4,Friday,12,SSO,14.545454545454545
+Osidge,4,Friday,13,SSO,20.0
+Osidge,4,Friday,14,SSO,38.142857142857146
+Osidge,4,Friday,15,SSO,45.647058823529406
+Osidge,4,Friday,16,SSO,29.45454545454545
+Osidge,4,Friday,17,SSO,14.451612903225806
+Osidge,4,Friday,18,SSO,7.0769230769230775
+Osidge,4,Friday,19,SSO,6.941176470588236
+Osidge,4,Friday,20,closed,0.0
+Osidge,4,Friday,21,closed,0.0
+Osidge,4,Friday,22,closed,0.0
+Osidge,4,Friday,23,closed,0.0
+Osidge,5,Saturday,0,closed,0.0
+Osidge,5,Saturday,1,closed,0.0
+Osidge,5,Saturday,2,closed,0.0
+Osidge,5,Saturday,3,closed,0.0
+Osidge,5,Saturday,4,closed,0.0
+Osidge,5,Saturday,5,closed,0.0
+Osidge,5,Saturday,6,closed,0.0
+Osidge,5,Saturday,7,closed,0.0
+Osidge,5,Saturday,8,SSO,8.4375
+Osidge,5,Saturday,9,SSO,21.75757575757576
+Osidge,5,Saturday,10,SSO,19.272727272727273
+Osidge,5,Saturday,11,SSO,29.57142857142857
+Osidge,5,Saturday,12,SSO,25.176470588235286
+Osidge,5,Saturday,13,SSO,18.8
+Osidge,5,Saturday,14,staffed,47.34285714285714
+Osidge,5,Saturday,15,staffed,53.514285714285705
+Osidge,5,Saturday,16,staffed,45.65714285714286
+Osidge,5,Saturday,17,closed,0.0
+Osidge,5,Saturday,18,closed,0.0
+Osidge,5,Saturday,19,closed,0.0
+Osidge,5,Saturday,20,closed,0.0
+Osidge,5,Saturday,21,closed,0.0
+Osidge,5,Saturday,22,closed,0.0
+Osidge,5,Saturday,23,closed,0.0
+Osidge,6,Sunday,0,closed,0.0
+Osidge,6,Sunday,1,closed,0.0
+Osidge,6,Sunday,2,closed,0.0
+Osidge,6,Sunday,3,closed,0.0
+Osidge,6,Sunday,4,closed,0.0
+Osidge,6,Sunday,5,closed,0.0
+Osidge,6,Sunday,6,closed,0.0
+Osidge,6,Sunday,7,closed,0.0
+Osidge,6,Sunday,8,closed,0.0
+Osidge,6,Sunday,9,closed,0.0
+Osidge,6,Sunday,10,closed,0.0
+Osidge,6,Sunday,11,closed,0.0
+Osidge,6,Sunday,12,closed,0.0
+Osidge,6,Sunday,13,closed,0.0
+Osidge,6,Sunday,14,closed,0.0
+Osidge,6,Sunday,15,closed,0.0
+Osidge,6,Sunday,16,closed,0.0
+Osidge,6,Sunday,17,closed,0.0
+Osidge,6,Sunday,18,closed,0.0
+Osidge,6,Sunday,19,closed,0.0
+Osidge,6,Sunday,20,closed,0.0
+Osidge,6,Sunday,21,closed,0.0
+Osidge,6,Sunday,22,closed,0.0
+Osidge,6,Sunday,23,closed,0.0
+South Friern,0,Monday,0,closed,0.0
+South Friern,0,Monday,1,closed,0.0
+South Friern,0,Monday,2,closed,0.0
+South Friern,0,Monday,3,closed,0.0
+South Friern,0,Monday,4,closed,0.0
+South Friern,0,Monday,5,closed,0.0
+South Friern,0,Monday,6,closed,0.0
+South Friern,0,Monday,7,closed,0.0
+South Friern,0,Monday,8,closed,0.0
+South Friern,0,Monday,9,closed,0.0
+South Friern,0,Monday,10,closed,0.0
+South Friern,0,Monday,11,closed,0.0
+South Friern,0,Monday,12,closed,0.0
+South Friern,0,Monday,13,closed,0.0
+South Friern,0,Monday,14,closed,0.0
+South Friern,0,Monday,15,closed,0.0
+South Friern,0,Monday,16,closed,0.0
+South Friern,0,Monday,17,closed,0.0
+South Friern,0,Monday,18,closed,0.0
+South Friern,0,Monday,19,closed,0.0
+South Friern,0,Monday,20,closed,0.0
+South Friern,0,Monday,21,closed,0.0
+South Friern,0,Monday,22,closed,0.0
+South Friern,0,Monday,23,closed,0.0
+South Friern,1,Tuesday,0,closed,0.0
+South Friern,1,Tuesday,1,closed,0.0
+South Friern,1,Tuesday,2,closed,0.0
+South Friern,1,Tuesday,3,closed,0.0
+South Friern,1,Tuesday,4,closed,0.0
+South Friern,1,Tuesday,5,closed,0.0
+South Friern,1,Tuesday,6,closed,0.0
+South Friern,1,Tuesday,7,closed,0.0
+South Friern,1,Tuesday,8,closed,0.0
+South Friern,1,Tuesday,9,closed,0.0
+South Friern,1,Tuesday,10,closed,0.0
+South Friern,1,Tuesday,11,closed,0.0
+South Friern,1,Tuesday,12,closed,0.0
+South Friern,1,Tuesday,13,closed,0.0
+South Friern,1,Tuesday,14,staffed,22.352941176470583
+South Friern,1,Tuesday,15,staffed,30.21212121212121
+South Friern,1,Tuesday,16,staffed,33.882352941176464
+South Friern,1,Tuesday,17,staffed,27.705882352941174
+South Friern,1,Tuesday,18,staffed,15.6875
+South Friern,1,Tuesday,19,staffed,10.8125
+South Friern,1,Tuesday,20,closed,0.0
+South Friern,1,Tuesday,21,closed,0.0
+South Friern,1,Tuesday,22,closed,0.0
+South Friern,1,Tuesday,23,closed,0.0
+South Friern,2,Wednesday,0,closed,0.0
+South Friern,2,Wednesday,1,closed,0.0
+South Friern,2,Wednesday,2,closed,0.0
+South Friern,2,Wednesday,3,closed,0.0
+South Friern,2,Wednesday,4,closed,0.0
+South Friern,2,Wednesday,5,closed,0.0
+South Friern,2,Wednesday,6,closed,0.0
+South Friern,2,Wednesday,7,closed,0.0
+South Friern,2,Wednesday,8,closed,0.0
+South Friern,2,Wednesday,9,closed,0.0
+South Friern,2,Wednesday,10,staffed,27.911764705882355
+South Friern,2,Wednesday,11,staffed,19.352941176470583
+South Friern,2,Wednesday,12,staffed,13.625
+South Friern,2,Wednesday,13,staffed,13.366666666666667
+South Friern,2,Wednesday,14,staffed,11.35483870967742
+South Friern,2,Wednesday,15,staffed,16.558823529411768
+South Friern,2,Wednesday,16,staffed,18.484848484848484
+South Friern,2,Wednesday,17,closed,0.0
+South Friern,2,Wednesday,18,closed,0.0
+South Friern,2,Wednesday,19,closed,0.0
+South Friern,2,Wednesday,20,closed,0.0
+South Friern,2,Wednesday,21,closed,0.0
+South Friern,2,Wednesday,22,closed,0.0
+South Friern,2,Wednesday,23,closed,0.0
+South Friern,3,Thursday,0,closed,0.0
+South Friern,3,Thursday,1,closed,0.0
+South Friern,3,Thursday,2,closed,0.0
+South Friern,3,Thursday,3,closed,0.0
+South Friern,3,Thursday,4,closed,0.0
+South Friern,3,Thursday,5,closed,0.0
+South Friern,3,Thursday,6,closed,0.0
+South Friern,3,Thursday,7,closed,0.0
+South Friern,3,Thursday,8,closed,0.0
+South Friern,3,Thursday,9,closed,0.0
+South Friern,3,Thursday,10,staffed,25.558823529411764
+South Friern,3,Thursday,11,staffed,20.272727272727273
+South Friern,3,Thursday,12,staffed,13.0625
+South Friern,3,Thursday,13,staffed,7.3
+South Friern,3,Thursday,14,staffed,10.64516129032258
+South Friern,3,Thursday,15,staffed,19.060606060606066
+South Friern,3,Thursday,16,staffed,24.57575757575757
+South Friern,3,Thursday,17,closed,0.0
+South Friern,3,Thursday,18,closed,0.0
+South Friern,3,Thursday,19,closed,0.0
+South Friern,3,Thursday,20,closed,0.0
+South Friern,3,Thursday,21,closed,0.0
+South Friern,3,Thursday,22,closed,0.0
+South Friern,3,Thursday,23,closed,0.0
+South Friern,4,Friday,0,closed,0.0
+South Friern,4,Friday,1,closed,0.0
+South Friern,4,Friday,2,closed,0.0
+South Friern,4,Friday,3,closed,0.0
+South Friern,4,Friday,4,closed,0.0
+South Friern,4,Friday,5,closed,0.0
+South Friern,4,Friday,6,closed,0.0
+South Friern,4,Friday,7,closed,0.0
+South Friern,4,Friday,8,closed,0.0
+South Friern,4,Friday,9,closed,0.0
+South Friern,4,Friday,10,closed,0.0
+South Friern,4,Friday,11,closed,0.0
+South Friern,4,Friday,12,closed,0.0
+South Friern,4,Friday,13,closed,0.0
+South Friern,4,Friday,14,closed,0.0
+South Friern,4,Friday,15,closed,0.0
+South Friern,4,Friday,16,closed,0.0
+South Friern,4,Friday,17,closed,0.0
+South Friern,4,Friday,18,closed,0.0
+South Friern,4,Friday,19,closed,0.0
+South Friern,4,Friday,20,closed,0.0
+South Friern,4,Friday,21,closed,0.0
+South Friern,4,Friday,22,closed,0.0
+South Friern,4,Friday,23,closed,0.0
+South Friern,5,Saturday,0,closed,0.0
+South Friern,5,Saturday,1,closed,0.0
+South Friern,5,Saturday,2,closed,0.0
+South Friern,5,Saturday,3,closed,0.0
+South Friern,5,Saturday,4,closed,0.0
+South Friern,5,Saturday,5,closed,0.0
+South Friern,5,Saturday,6,closed,0.0
+South Friern,5,Saturday,7,closed,0.0
+South Friern,5,Saturday,8,closed,0.0
+South Friern,5,Saturday,9,closed,0.0
+South Friern,5,Saturday,10,closed,0.0
+South Friern,5,Saturday,11,closed,0.0
+South Friern,5,Saturday,12,closed,0.0
+South Friern,5,Saturday,13,closed,0.0
+South Friern,5,Saturday,14,staffed,33.22857142857143
+South Friern,5,Saturday,15,staffed,24.34285714285714
+South Friern,5,Saturday,16,staffed,28.771428571428572
+South Friern,5,Saturday,17,closed,0.0
+South Friern,5,Saturday,18,closed,0.0
+South Friern,5,Saturday,19,closed,0.0
+South Friern,5,Saturday,20,closed,0.0
+South Friern,5,Saturday,21,closed,0.0
+South Friern,5,Saturday,22,closed,0.0
+South Friern,5,Saturday,23,closed,0.0
+South Friern,6,Sunday,0,closed,0.0
+South Friern,6,Sunday,1,closed,0.0
+South Friern,6,Sunday,2,closed,0.0
+South Friern,6,Sunday,3,closed,0.0
+South Friern,6,Sunday,4,closed,0.0
+South Friern,6,Sunday,5,closed,0.0
+South Friern,6,Sunday,6,closed,0.0
+South Friern,6,Sunday,7,closed,0.0
+South Friern,6,Sunday,8,closed,0.0
+South Friern,6,Sunday,9,closed,0.0
+South Friern,6,Sunday,10,closed,0.0
+South Friern,6,Sunday,11,closed,0.0
+South Friern,6,Sunday,12,closed,0.0
+South Friern,6,Sunday,13,closed,0.0
+South Friern,6,Sunday,14,closed,0.0
+South Friern,6,Sunday,15,closed,0.0
+South Friern,6,Sunday,16,closed,0.0
+South Friern,6,Sunday,17,closed,0.0
+South Friern,6,Sunday,18,closed,0.0
+South Friern,6,Sunday,19,closed,0.0
+South Friern,6,Sunday,20,closed,0.0
+South Friern,6,Sunday,21,closed,0.0
+South Friern,6,Sunday,22,closed,0.0
+South Friern,6,Sunday,23,closed,0.0
