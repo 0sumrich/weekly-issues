@@ -1,17 +1,16 @@
 import * as d3 from "d3";
 import moment from "moment";
 
-function getDateTime(dayNum, time) {
+function getDateTime(dayNum, hour=0) {
 	const splitT = str => {
 		const arr = str.split(":");
 		return [arr[0], arr[1]];
-	};
-	const t = time ? splitT(time) : [0, 0];
-	const sunday = d3.timeSunday(new Date(Date.now()));
-	return moment(sunday)
+	};	
+	const monday = d3.timeMonday(new Date(Date.now()));
+	return moment(monday)
 		.add(dayNum, "d")
-		.add(t[0], "h")
-		.add(t[1], "m")
+		.add(hour, "h")
+		.add(0, "m")
 		.toDate();
 }
 
@@ -50,7 +49,6 @@ function weekly(data) {
 		.append("g")
 		.attr("transform", `translate(${margin.left}, ${margin.top})`);
   
-  debugger;
 	const timeArr = d3.timeHours(getDateTime(0), getDateTime(7), 1);
 
 	const x = d3
@@ -68,6 +66,7 @@ function weekly(data) {
 	const line = d3
 		.line()
 		.x(d => {
+      debugger;
 			const res = getDateTime(d.day, d.time);
 			return x(res);
 		})
