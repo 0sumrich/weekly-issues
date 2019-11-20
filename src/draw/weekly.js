@@ -168,6 +168,7 @@ function weekly(data) {
       .attr("x", sqSize + 2 * gap)
       .attr("y", y + sqSize / 2)
       .attr("alignment-baseline", "middle")
+      .attr("font-size", "small")
       .text(openingType);
   };
 
@@ -176,16 +177,24 @@ function weekly(data) {
     .attr("x", 5)
     .attr("y", 0)
     .attr("alignment-baseline", "hanging")
+    .attr("font-size", "small")
     .text("Opening Types");
 
   openingTypes.forEach((ot, i) => drawLeg(ot, i));
-  
+
   //axes labels
-  chart
-  .append('text')
-  .attr('x', width/2)
-  .attr('y', 0 + margin.top/2)
-  .text('')
+  const text = chart
+    .append("text")
+    .attr("x", width / 2)
+    .attr("y", 0 + margin.top / 2)
+    .style("text-anchor", "middle");
+  
+  text
+    .append("tspan")
+    .text(`Average Weekly Loan Transactions at ${d[0].library}`);
+  
+  text.append("tspan").text(`Between March-November 2019`)
+  .attr('dy', '1.6em');
 }
 
 export default weekly;
